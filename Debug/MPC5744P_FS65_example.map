@@ -1,0 +1,2183 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(round.o)
+                              ./src/Modules/LINFLEX.o (round)
+C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_floor.o)
+                              ./src/Modules/LINFLEX.o (floor)
+C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_modf.o)
+                              C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(round.o) (modf)
+C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(math_api.o)
+                              C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(round.o) (__ewl_generic_count_bits32)
+c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_lshrdi3.o)
+                              C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(round.o) (__lshrdi3)
+c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_ashldi3.o)
+                              C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(round.o) (__ashldi3)
+c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_fixunsdfsi.o)
+                              ./src/Modules/LINFLEX.o (__fixunsdfsi)
+c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_addsub_df.o)
+                              ./src/Modules/FS65xx.o (__adddf3)
+c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_mul_df.o)
+                              ./src/Modules/LINFLEX.o (__muldf3)
+c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_div_df.o)
+                              ./src/Modules/LINFLEX.o (__divdf3)
+c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_gt_df.o)
+                              C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_floor.o) (__gtdf2)
+c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_ge_df.o)
+                              C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(round.o) (__gedf2)
+c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_lt_df.o)
+                              C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(round.o) (__ltdf2)
+c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_si_to_df.o)
+                              ./src/Modules/DSPI.o (__floatsidf)
+c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_df_to_si.o)
+                              ./src/Modules/DSPI.o (__fixdfsi)
+c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_df_to_sf.o)
+                              ./src/Modules/FS65xx.o (__truncdfsf2)
+c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_thenan_df.o)
+                              c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_addsub_df.o) (__thenan_df)
+c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_usi_to_df.o)
+                              ./src/Modules/LINFLEX.o (__floatunsidf)
+c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(e200crtresxgpr.o)
+                              C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(round.o) (_restgpr_26_x)
+c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_make_sf.o)
+                              c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_df_to_sf.o) (__make_fp)
+c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_pack_df.o)
+                              c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_addsub_df.o) (__pack_d)
+c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_unpack_df.o)
+                              c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_addsub_df.o) (__unpack_d)
+c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_fpcmp_parts_df.o)
+                              c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_gt_df.o) (__fpcmp_parts_d)
+c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_pack_sf.o)
+                              c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_make_sf.o) (__pack_f)
+
+Allocating common symbols
+Common symbol       size              file
+
+ADCstruct           0x24              ./src/Modules/FS65xx.o
+INTstructPrevious   0xb8              ./src/Modules/FS65xx.o
+PITstruct           0x8               ./src/Modules/FS65xx.o
+SPIstruct           0x18              ./src/Modules/FS65xx.o
+INTstruct           0xb8              ./src/Modules/FS65xx.o
+
+Discarded input sections
+
+ .text          0x00000000        0x0 ./Project_Settings/Startup_Code/startup.o
+ .data          0x00000000        0x0 ./Project_Settings/Startup_Code/startup.o
+ .bss           0x00000000        0x0 ./Project_Settings/Startup_Code/startup.o
+ .data          0x00000000        0x0 ./src/Interrupts/intc_sw_handlers.o
+ .bss           0x00000000        0x0 ./src/Interrupts/intc_sw_handlers.o
+ .group         0x00000000        0x8 ./src/Interrupts/intc_SW_mode_isr_vectors_MPC5744P.o
+ .group         0x00000000        0x8 ./src/Interrupts/intc_SW_mode_isr_vectors_MPC5744P.o
+ .group         0x00000000        0x8 ./src/Interrupts/intc_SW_mode_isr_vectors_MPC5744P.o
+ .group         0x00000000        0x8 ./src/Interrupts/intc_SW_mode_isr_vectors_MPC5744P.o
+ .group         0x00000000        0x8 ./src/Interrupts/intc_SW_mode_isr_vectors_MPC5744P.o
+ .group         0x00000000        0x8 ./src/Interrupts/intc_SW_mode_isr_vectors_MPC5744P.o
+ .group         0x00000000        0x8 ./src/Interrupts/intc_SW_mode_isr_vectors_MPC5744P.o
+ .group         0x00000000        0x8 ./src/Interrupts/intc_SW_mode_isr_vectors_MPC5744P.o
+ .group         0x00000000        0x8 ./src/Interrupts/intc_SW_mode_isr_vectors_MPC5744P.o
+ .group         0x00000000        0x8 ./src/Interrupts/intc_SW_mode_isr_vectors_MPC5744P.o
+ .text          0x00000000        0x0 ./src/Interrupts/intc_SW_mode_isr_vectors_MPC5744P.o
+ .data          0x00000000        0x0 ./src/Interrupts/intc_SW_mode_isr_vectors_MPC5744P.o
+ .bss           0x00000000        0x0 ./src/Interrupts/intc_SW_mode_isr_vectors_MPC5744P.o
+ .group         0x00000000        0x8 ./src/Interrupts/flashrchw.o
+ .group         0x00000000        0x8 ./src/Interrupts/flashrchw.o
+ .group         0x00000000        0x8 ./src/Interrupts/flashrchw.o
+ .group         0x00000000        0x8 ./src/Interrupts/flashrchw.o
+ .group         0x00000000        0x8 ./src/Interrupts/flashrchw.o
+ .group         0x00000000        0x8 ./src/Interrupts/flashrchw.o
+ .group         0x00000000        0x8 ./src/Interrupts/flashrchw.o
+ .group         0x00000000        0x8 ./src/Interrupts/flashrchw.o
+ .group         0x00000000        0x8 ./src/Interrupts/flashrchw.o
+ .text          0x00000000        0x0 ./src/Interrupts/flashrchw.o
+ .data          0x00000000        0x0 ./src/Interrupts/flashrchw.o
+ .bss           0x00000000        0x0 ./src/Interrupts/flashrchw.o
+ .debug_macro   0x00000000      0x610 ./src/Interrupts/flashrchw.o
+ .debug_macro   0x00000000       0x40 ./src/Interrupts/flashrchw.o
+ .debug_macro   0x00000000       0x16 ./src/Interrupts/flashrchw.o
+ .debug_macro   0x00000000       0x64 ./src/Interrupts/flashrchw.o
+ .debug_macro   0x00000000      0x19d ./src/Interrupts/flashrchw.o
+ .debug_macro   0x00000000      0x133 ./src/Interrupts/flashrchw.o
+ .debug_macro   0x00000000       0x9d ./src/Interrupts/flashrchw.o
+ .debug_macro   0x00000000       0x10 ./src/Interrupts/flashrchw.o
+ .debug_macro   0x00000000      0x1a1 ./src/Interrupts/flashrchw.o
+ .group         0x00000000        0x8 ./src/Interrupts/Vector.o
+ .group         0x00000000        0x8 ./src/Interrupts/Vector.o
+ .group         0x00000000        0x8 ./src/Interrupts/Vector.o
+ .text          0x00000000        0x0 ./src/Interrupts/Vector.o
+ .data          0x00000000        0x0 ./src/Interrupts/Vector.o
+ .bss           0x00000000        0x0 ./src/Interrupts/Vector.o
+ .debug_macro   0x00000000      0x610 ./src/Interrupts/Vector.o
+ .debug_macro   0x00000000       0x40 ./src/Interrupts/Vector.o
+ .debug_macro   0x00000000       0x16 ./src/Interrupts/Vector.o
+ .group         0x00000000        0x8 ./src/Interrupts/MPC57xx__Interrupt_Init.o
+ .group         0x00000000        0x8 ./src/Interrupts/MPC57xx__Interrupt_Init.o
+ .group         0x00000000        0x8 ./src/Interrupts/MPC57xx__Interrupt_Init.o
+ .group         0x00000000        0x8 ./src/Interrupts/MPC57xx__Interrupt_Init.o
+ .group         0x00000000        0x8 ./src/Interrupts/MPC57xx__Interrupt_Init.o
+ .group         0x00000000        0x8 ./src/Interrupts/MPC57xx__Interrupt_Init.o
+ .group         0x00000000        0x8 ./src/Interrupts/MPC57xx__Interrupt_Init.o
+ .group         0x00000000        0x8 ./src/Interrupts/MPC57xx__Interrupt_Init.o
+ .group         0x00000000        0x8 ./src/Interrupts/MPC57xx__Interrupt_Init.o
+ .group         0x00000000        0x8 ./src/Interrupts/MPC57xx__Interrupt_Init.o
+ .group         0x00000000        0x8 ./src/Interrupts/MPC57xx__Interrupt_Init.o
+ .text          0x00000000        0x0 ./src/Interrupts/MPC57xx__Interrupt_Init.o
+ .data          0x00000000        0x0 ./src/Interrupts/MPC57xx__Interrupt_Init.o
+ .bss           0x00000000        0x0 ./src/Interrupts/MPC57xx__Interrupt_Init.o
+ .debug_macro   0x00000000      0x610 ./src/Interrupts/MPC57xx__Interrupt_Init.o
+ .debug_macro   0x00000000       0x40 ./src/Interrupts/MPC57xx__Interrupt_Init.o
+ .debug_macro   0x00000000       0x16 ./src/Interrupts/MPC57xx__Interrupt_Init.o
+ .debug_macro   0x00000000       0x64 ./src/Interrupts/MPC57xx__Interrupt_Init.o
+ .debug_macro   0x00000000      0x19d ./src/Interrupts/MPC57xx__Interrupt_Init.o
+ .debug_macro   0x00000000      0x133 ./src/Interrupts/MPC57xx__Interrupt_Init.o
+ .debug_macro   0x00000000       0x9d ./src/Interrupts/MPC57xx__Interrupt_Init.o
+ .debug_macro   0x00000000       0x10 ./src/Interrupts/MPC57xx__Interrupt_Init.o
+ .debug_macro   0x00000000      0x1a1 ./src/Interrupts/MPC57xx__Interrupt_Init.o
+ .group         0x00000000        0x8 ./src/Modules/SIUL.o
+ .group         0x00000000        0x8 ./src/Modules/SIUL.o
+ .group         0x00000000        0x8 ./src/Modules/SIUL.o
+ .group         0x00000000        0x8 ./src/Modules/SIUL.o
+ .group         0x00000000        0x8 ./src/Modules/SIUL.o
+ .group         0x00000000        0x8 ./src/Modules/SIUL.o
+ .group         0x00000000        0x8 ./src/Modules/SIUL.o
+ .group         0x00000000        0x8 ./src/Modules/SIUL.o
+ .group         0x00000000        0x8 ./src/Modules/SIUL.o
+ .group         0x00000000        0x8 ./src/Modules/SIUL.o
+ .group         0x00000000        0x8 ./src/Modules/SIUL.o
+ .text          0x00000000        0x0 ./src/Modules/SIUL.o
+ .data          0x00000000        0x0 ./src/Modules/SIUL.o
+ .bss           0x00000000        0x0 ./src/Modules/SIUL.o
+ .text.SIUL_EnableExtIntRisingEdge
+                0x00000000       0x46 ./src/Modules/SIUL.o
+ .text.SIUL_GetExtIntFlag
+                0x00000000       0x4c ./src/Modules/SIUL.o
+ .text.SIUL_SetPad
+                0x00000000       0x32 ./src/Modules/SIUL.o
+ .text.SIUL_GetPadState
+                0x00000000       0x30 ./src/Modules/SIUL.o
+ .debug_macro   0x00000000      0x610 ./src/Modules/SIUL.o
+ .debug_macro   0x00000000       0x40 ./src/Modules/SIUL.o
+ .debug_macro   0x00000000       0x16 ./src/Modules/SIUL.o
+ .debug_macro   0x00000000       0x64 ./src/Modules/SIUL.o
+ .debug_macro   0x00000000      0x19d ./src/Modules/SIUL.o
+ .debug_macro   0x00000000      0x133 ./src/Modules/SIUL.o
+ .debug_macro   0x00000000       0x9d ./src/Modules/SIUL.o
+ .debug_macro   0x00000000       0x10 ./src/Modules/SIUL.o
+ .debug_macro   0x00000000      0x1a1 ./src/Modules/SIUL.o
+ .debug_macro   0x00000000     0xb50a ./src/Modules/SIUL.o
+ .group         0x00000000        0x8 ./src/Modules/PIT.o
+ .group         0x00000000        0x8 ./src/Modules/PIT.o
+ .group         0x00000000        0x8 ./src/Modules/PIT.o
+ .group         0x00000000        0x8 ./src/Modules/PIT.o
+ .group         0x00000000        0x8 ./src/Modules/PIT.o
+ .group         0x00000000        0x8 ./src/Modules/PIT.o
+ .group         0x00000000        0x8 ./src/Modules/PIT.o
+ .group         0x00000000        0x8 ./src/Modules/PIT.o
+ .group         0x00000000        0x8 ./src/Modules/PIT.o
+ .group         0x00000000        0x8 ./src/Modules/PIT.o
+ .group         0x00000000        0x8 ./src/Modules/PIT.o
+ .group         0x00000000        0x8 ./src/Modules/PIT.o
+ .text          0x00000000        0x0 ./src/Modules/PIT.o
+ .data          0x00000000        0x0 ./src/Modules/PIT.o
+ .bss           0x00000000        0x0 ./src/Modules/PIT.o
+ .text.PIT_Disable
+                0x00000000       0x96 ./src/Modules/PIT.o
+ .text.PIT_IsChannelEnabled
+                0x00000000       0x44 ./src/Modules/PIT.o
+ .debug_macro   0x00000000      0x610 ./src/Modules/PIT.o
+ .debug_macro   0x00000000       0x40 ./src/Modules/PIT.o
+ .debug_macro   0x00000000       0x16 ./src/Modules/PIT.o
+ .debug_macro   0x00000000       0x64 ./src/Modules/PIT.o
+ .debug_macro   0x00000000      0x19d ./src/Modules/PIT.o
+ .debug_macro   0x00000000      0x133 ./src/Modules/PIT.o
+ .debug_macro   0x00000000       0x9d ./src/Modules/PIT.o
+ .debug_macro   0x00000000       0x10 ./src/Modules/PIT.o
+ .debug_macro   0x00000000      0x1a1 ./src/Modules/PIT.o
+ .debug_macro   0x00000000     0xb50a ./src/Modules/PIT.o
+ .debug_macro   0x00000000      0x7e1 ./src/Modules/PIT.o
+ .group         0x00000000        0x8 ./src/Modules/ME.o
+ .group         0x00000000        0x8 ./src/Modules/ME.o
+ .group         0x00000000        0x8 ./src/Modules/ME.o
+ .group         0x00000000        0x8 ./src/Modules/ME.o
+ .group         0x00000000        0x8 ./src/Modules/ME.o
+ .group         0x00000000        0x8 ./src/Modules/ME.o
+ .group         0x00000000        0x8 ./src/Modules/ME.o
+ .group         0x00000000        0x8 ./src/Modules/ME.o
+ .group         0x00000000        0x8 ./src/Modules/ME.o
+ .group         0x00000000        0x8 ./src/Modules/ME.o
+ .group         0x00000000        0x8 ./src/Modules/ME.o
+ .group         0x00000000        0x8 ./src/Modules/ME.o
+ .group         0x00000000        0x8 ./src/Modules/ME.o
+ .text          0x00000000        0x0 ./src/Modules/ME.o
+ .data          0x00000000        0x0 ./src/Modules/ME.o
+ .bss           0x00000000        0x0 ./src/Modules/ME.o
+ .debug_macro   0x00000000      0x610 ./src/Modules/ME.o
+ .debug_macro   0x00000000       0x40 ./src/Modules/ME.o
+ .debug_macro   0x00000000       0x16 ./src/Modules/ME.o
+ .debug_macro   0x00000000       0x64 ./src/Modules/ME.o
+ .debug_macro   0x00000000      0x19d ./src/Modules/ME.o
+ .debug_macro   0x00000000      0x133 ./src/Modules/ME.o
+ .debug_macro   0x00000000       0x9d ./src/Modules/ME.o
+ .debug_macro   0x00000000       0x10 ./src/Modules/ME.o
+ .debug_macro   0x00000000      0x1a1 ./src/Modules/ME.o
+ .debug_macro   0x00000000     0xb50a ./src/Modules/ME.o
+ .debug_macro   0x00000000      0x7e1 ./src/Modules/ME.o
+ .group         0x00000000        0x8 ./src/Modules/LINFLEX.o
+ .group         0x00000000        0x8 ./src/Modules/LINFLEX.o
+ .group         0x00000000        0x8 ./src/Modules/LINFLEX.o
+ .group         0x00000000        0x8 ./src/Modules/LINFLEX.o
+ .group         0x00000000        0x8 ./src/Modules/LINFLEX.o
+ .group         0x00000000        0x8 ./src/Modules/LINFLEX.o
+ .group         0x00000000        0x8 ./src/Modules/LINFLEX.o
+ .group         0x00000000        0x8 ./src/Modules/LINFLEX.o
+ .group         0x00000000        0x8 ./src/Modules/LINFLEX.o
+ .group         0x00000000        0x8 ./src/Modules/LINFLEX.o
+ .group         0x00000000        0x8 ./src/Modules/LINFLEX.o
+ .group         0x00000000        0x8 ./src/Modules/LINFLEX.o
+ .group         0x00000000        0x8 ./src/Modules/LINFLEX.o
+ .group         0x00000000        0x8 ./src/Modules/LINFLEX.o
+ .group         0x00000000        0x8 ./src/Modules/LINFLEX.o
+ .group         0x00000000        0x8 ./src/Modules/LINFLEX.o
+ .group         0x00000000        0x8 ./src/Modules/LINFLEX.o
+ .group         0x00000000        0x8 ./src/Modules/LINFLEX.o
+ .group         0x00000000        0x8 ./src/Modules/LINFLEX.o
+ .text          0x00000000        0x0 ./src/Modules/LINFLEX.o
+ .data          0x00000000        0x0 ./src/Modules/LINFLEX.o
+ .bss           0x00000000        0x0 ./src/Modules/LINFLEX.o
+ .sdata.LINFLEX
+                0x00000000        0x8 ./src/Modules/LINFLEX.o
+ .text.LINFLEX_ChangeBaudRate
+                0x00000000      0x152 ./src/Modules/LINFLEX.o
+ .text.LINFLEX_ConfigurePads
+                0x00000000       0x74 ./src/Modules/LINFLEX.o
+ .text.LINFLEX_Sleep
+                0x00000000       0x4a ./src/Modules/LINFLEX.o
+ .text.LINFLEX_WakeUp
+                0x00000000       0x4a ./src/Modules/LINFLEX.o
+ .text.LINFLEX_DisableTxUART
+                0x00000000       0x4a ./src/Modules/LINFLEX.o
+ .text.LINFLEX_DisableRxUART
+                0x00000000       0x4a ./src/Modules/LINFLEX.o
+ .text.LINFLEX_EnableTxUART
+                0x00000000       0x4a ./src/Modules/LINFLEX.o
+ .text.LINFLEX_EnableRxUART
+                0x00000000       0x4a ./src/Modules/LINFLEX.o
+ .text.LINFLEX_EnableInt
+                0x00000000      0x10a ./src/Modules/LINFLEX.o
+ .text.LINFLEX_InitUART
+                0x00000000      0x258 ./src/Modules/LINFLEX.o
+ .text.LINFLEX_InitRxBuffer
+                0x00000000       0x64 ./src/Modules/LINFLEX.o
+ .text.LINFLEX_SendUART
+                0x00000000      0x306 ./src/Modules/LINFLEX.o
+ .text.LINFLEX_ReadUART
+                0x00000000      0x14a ./src/Modules/LINFLEX.o
+ .text.LINFLEX_GetReceiveFlagUART
+                0x00000000       0x4c ./src/Modules/LINFLEX.o
+ .text.LINFLEX_ClearReceiveFlagUART
+                0x00000000       0x7a ./src/Modules/LINFLEX.o
+ .text.LINFLEX_EnableDRFint
+                0x00000000       0x4a ./src/Modules/LINFLEX.o
+ .text.LINFLEX_GetParityErrorUART
+                0x00000000       0x4c ./src/Modules/LINFLEX.o
+ .text.LINFLEX_ClearParityError
+                0x00000000       0x4a ./src/Modules/LINFLEX.o
+ .text.LINFLEX_IsIdle
+                0x00000000       0x70 ./src/Modules/LINFLEX.o
+ .text.LINFLEX_InitLIN
+                0x00000000      0x2b8 ./src/Modules/LINFLEX.o
+ .text.LINFLEX_SendFrameLIN
+                0x00000000      0x4d4 ./src/Modules/LINFLEX.o
+ .text.LINFLEX_SendHeaderLIN
+                0x00000000      0x104 ./src/Modules/LINFLEX.o
+ .text.LINFLEX_SendWordUART
+                0x00000000      0x218 ./src/Modules/LINFLEX.o
+ .text.LINFLEX_ReadLIN
+                0x00000000      0x14a ./src/Modules/LINFLEX.o
+ .text.LINFLEX_GetReceiveFlagLIN
+                0x00000000       0x4c ./src/Modules/LINFLEX.o
+ .text.LINFLEX_ClearReceiveFlagLIN
+                0x00000000       0x4a ./src/Modules/LINFLEX.o
+ .text.LINFLEX_GetHeaderFlagLIN
+                0x00000000       0x48 ./src/Modules/LINFLEX.o
+ .text.LINFLEX_ClearHeaderFlagLIN
+                0x00000000       0x4a ./src/Modules/LINFLEX.o
+ .text.LINFLEX_ReadLINid
+                0x00000000       0x48 ./src/Modules/LINFLEX.o
+ .text.LINFLEX_SetReceptionParamLIN
+                0x00000000       0xc0 ./src/Modules/LINFLEX.o
+ .debug_macro   0x00000000      0x610 ./src/Modules/LINFLEX.o
+ .debug_macro   0x00000000       0x40 ./src/Modules/LINFLEX.o
+ .debug_macro   0x00000000       0x16 ./src/Modules/LINFLEX.o
+ .debug_macro   0x00000000       0x64 ./src/Modules/LINFLEX.o
+ .debug_macro   0x00000000      0x19d ./src/Modules/LINFLEX.o
+ .debug_macro   0x00000000      0x133 ./src/Modules/LINFLEX.o
+ .debug_macro   0x00000000       0x9d ./src/Modules/LINFLEX.o
+ .debug_macro   0x00000000       0x10 ./src/Modules/LINFLEX.o
+ .debug_macro   0x00000000      0x1a1 ./src/Modules/LINFLEX.o
+ .debug_macro   0x00000000     0xb50a ./src/Modules/LINFLEX.o
+ .debug_macro   0x00000000      0x7e1 ./src/Modules/LINFLEX.o
+ .group         0x00000000        0x8 ./src/Modules/FS65xx.o
+ .group         0x00000000        0x8 ./src/Modules/FS65xx.o
+ .group         0x00000000        0x8 ./src/Modules/FS65xx.o
+ .group         0x00000000        0x8 ./src/Modules/FS65xx.o
+ .group         0x00000000        0x8 ./src/Modules/FS65xx.o
+ .group         0x00000000        0x8 ./src/Modules/FS65xx.o
+ .group         0x00000000        0x8 ./src/Modules/FS65xx.o
+ .group         0x00000000        0x8 ./src/Modules/FS65xx.o
+ .group         0x00000000        0x8 ./src/Modules/FS65xx.o
+ .group         0x00000000        0x8 ./src/Modules/FS65xx.o
+ .group         0x00000000        0x8 ./src/Modules/FS65xx.o
+ .group         0x00000000        0x8 ./src/Modules/FS65xx.o
+ .group         0x00000000        0x8 ./src/Modules/FS65xx.o
+ .group         0x00000000        0x8 ./src/Modules/FS65xx.o
+ .group         0x00000000        0x8 ./src/Modules/FS65xx.o
+ .group         0x00000000        0x8 ./src/Modules/FS65xx.o
+ .group         0x00000000        0x8 ./src/Modules/FS65xx.o
+ .text          0x00000000        0x0 ./src/Modules/FS65xx.o
+ .data          0x00000000        0x0 ./src/Modules/FS65xx.o
+ .bss           0x00000000        0x0 ./src/Modules/FS65xx.o
+ .text.FS65_GetStatus
+                0x00000000      0x1ba ./src/Modules/FS65xx.o
+ .text.FS65_SetWakeUpReg
+                0x00000000       0x84 ./src/Modules/FS65xx.o
+ .text.FS65_SetLDTCalibrationMode
+                0x00000000       0x84 ./src/Modules/FS65xx.o
+ .text.FS65_StopLDTCounter
+                0x00000000       0x84 ./src/Modules/FS65xx.o
+ .text.FS65_ConfWakeUpValue
+                0x00000000      0x17a ./src/Modules/FS65xx.o
+ .text.FS65_SetLPOFFmode
+                0x00000000       0x68 ./src/Modules/FS65xx.o
+ .text.FS65_RequestINT
+                0x00000000       0x68 ./src/Modules/FS65xx.o
+ .text.FS65_EnableVKAM
+                0x00000000       0xc4 ./src/Modules/FS65xx.o
+ .text.FS65_DisableVKAM
+                0x00000000       0xc4 ./src/Modules/FS65xx.o
+ .text.FS65_EnableVcore
+                0x00000000       0xd0 ./src/Modules/FS65xx.o
+ .text.FS65_DisableVcore
+                0x00000000      0x100 ./src/Modules/FS65xx.o
+ .text.FS65_EnableVcca
+                0x00000000       0xd0 ./src/Modules/FS65xx.o
+ .text.FS65_DisableVcca
+                0x00000000      0x100 ./src/Modules/FS65xx.o
+ .text.FS65_EnableVaux
+                0x00000000       0xd0 ./src/Modules/FS65xx.o
+ .text.FS65_DisableVaux
+                0x00000000      0x100 ./src/Modules/FS65xx.o
+ .text.FS65_EnableVcan
+                0x00000000       0xcc ./src/Modules/FS65xx.o
+ .text.FS65_DisableVcan
+                0x00000000       0xcc ./src/Modules/FS65xx.o
+ .text.FS65_EnableOUT4
+                0x00000000       0xcc ./src/Modules/FS65xx.o
+ .text.FS65_SetOUT4
+                0x00000000       0xcc ./src/Modules/FS65xx.o
+ .text.FS65_ClearOUT4
+                0x00000000       0xcc ./src/Modules/FS65xx.o
+ .text.FS65_SetCANmode
+                0x00000000      0x102 ./src/Modules/FS65xx.o
+ .text.FS65_SetAutoCANTxDisable
+                0x00000000       0xcc ./src/Modules/FS65xx.o
+ .text.FS65_ClearAutoCANTxDisable
+                0x00000000       0xcc ./src/Modules/FS65xx.o
+ .text.FS65_SetLINmode
+                0x00000000      0x102 ./src/Modules/FS65xx.o
+ .text.FS65_SetAutoLINTxDisable
+                0x00000000       0xcc ./src/Modules/FS65xx.o
+ .text.FS65_ClearAutoLINTxDisable
+                0x00000000       0xcc ./src/Modules/FS65xx.o
+ .text.FS65_ReleaseFS0out
+                0x00000000      0x1cc ./src/Modules/FS65xx.o
+ .text.FS65_ReleaseFS1out
+                0x00000000      0x1d0 ./src/Modules/FS65xx.o
+ .text.FS65_RequestReset
+                0x00000000       0x68 ./src/Modules/FS65xx.o
+ .text.FS65_RequestFS1B
+                0x00000000       0x68 ./src/Modules/FS65xx.o
+ .text.FS65_RequestFS1B_DLY
+                0x00000000       0x68 ./src/Modules/FS65xx.o
+ .text.FS65_RequestFS0B
+                0x00000000       0x68 ./src/Modules/FS65xx.o
+ .debug_macro   0x00000000      0x610 ./src/Modules/FS65xx.o
+ .debug_macro   0x00000000       0x40 ./src/Modules/FS65xx.o
+ .debug_macro   0x00000000       0x16 ./src/Modules/FS65xx.o
+ .debug_macro   0x00000000       0x64 ./src/Modules/FS65xx.o
+ .debug_macro   0x00000000      0x19d ./src/Modules/FS65xx.o
+ .debug_macro   0x00000000      0x133 ./src/Modules/FS65xx.o
+ .debug_macro   0x00000000       0x9d ./src/Modules/FS65xx.o
+ .debug_macro   0x00000000       0x10 ./src/Modules/FS65xx.o
+ .debug_macro   0x00000000      0x1a1 ./src/Modules/FS65xx.o
+ .debug_macro   0x00000000     0xb50a ./src/Modules/FS65xx.o
+ .debug_macro   0x00000000      0x7e1 ./src/Modules/FS65xx.o
+ .debug_macro   0x00000000       0x16 ./src/Modules/FS65xx.o
+ .debug_macro   0x00000000       0x22 ./src/Modules/FS65xx.o
+ .group         0x00000000        0x8 ./src/Modules/FCCU.o
+ .group         0x00000000        0x8 ./src/Modules/FCCU.o
+ .group         0x00000000        0x8 ./src/Modules/FCCU.o
+ .group         0x00000000        0x8 ./src/Modules/FCCU.o
+ .group         0x00000000        0x8 ./src/Modules/FCCU.o
+ .group         0x00000000        0x8 ./src/Modules/FCCU.o
+ .group         0x00000000        0x8 ./src/Modules/FCCU.o
+ .group         0x00000000        0x8 ./src/Modules/FCCU.o
+ .group         0x00000000        0x8 ./src/Modules/FCCU.o
+ .group         0x00000000        0x8 ./src/Modules/FCCU.o
+ .group         0x00000000        0x8 ./src/Modules/FCCU.o
+ .group         0x00000000        0x8 ./src/Modules/FCCU.o
+ .group         0x00000000        0x8 ./src/Modules/FCCU.o
+ .text          0x00000000        0x0 ./src/Modules/FCCU.o
+ .data          0x00000000        0x0 ./src/Modules/FCCU.o
+ .bss           0x00000000        0x0 ./src/Modules/FCCU.o
+ .debug_macro   0x00000000      0x610 ./src/Modules/FCCU.o
+ .debug_macro   0x00000000       0x40 ./src/Modules/FCCU.o
+ .debug_macro   0x00000000       0x16 ./src/Modules/FCCU.o
+ .debug_macro   0x00000000       0x64 ./src/Modules/FCCU.o
+ .debug_macro   0x00000000      0x19d ./src/Modules/FCCU.o
+ .debug_macro   0x00000000      0x133 ./src/Modules/FCCU.o
+ .debug_macro   0x00000000       0x9d ./src/Modules/FCCU.o
+ .debug_macro   0x00000000       0x10 ./src/Modules/FCCU.o
+ .debug_macro   0x00000000      0x1a1 ./src/Modules/FCCU.o
+ .debug_macro   0x00000000     0xb50a ./src/Modules/FCCU.o
+ .debug_macro   0x00000000      0x7e1 ./src/Modules/FCCU.o
+ .debug_macro   0x00000000      0x124 ./src/Modules/FCCU.o
+ .debug_macro   0x00000000      0x112 ./src/Modules/FCCU.o
+ .group         0x00000000        0x8 ./src/Modules/DSPI.o
+ .group         0x00000000        0x8 ./src/Modules/DSPI.o
+ .group         0x00000000        0x8 ./src/Modules/DSPI.o
+ .group         0x00000000        0x8 ./src/Modules/DSPI.o
+ .group         0x00000000        0x8 ./src/Modules/DSPI.o
+ .group         0x00000000        0x8 ./src/Modules/DSPI.o
+ .group         0x00000000        0x8 ./src/Modules/DSPI.o
+ .group         0x00000000        0x8 ./src/Modules/DSPI.o
+ .group         0x00000000        0x8 ./src/Modules/DSPI.o
+ .group         0x00000000        0x8 ./src/Modules/DSPI.o
+ .group         0x00000000        0x8 ./src/Modules/DSPI.o
+ .group         0x00000000        0x8 ./src/Modules/DSPI.o
+ .group         0x00000000        0x8 ./src/Modules/DSPI.o
+ .group         0x00000000        0x8 ./src/Modules/DSPI.o
+ .group         0x00000000        0x8 ./src/Modules/DSPI.o
+ .group         0x00000000        0x8 ./src/Modules/DSPI.o
+ .group         0x00000000        0x8 ./src/Modules/DSPI.o
+ .group         0x00000000        0x8 ./src/Modules/DSPI.o
+ .group         0x00000000        0x8 ./src/Modules/DSPI.o
+ .text          0x00000000        0x0 ./src/Modules/DSPI.o
+ .data          0x00000000        0x0 ./src/Modules/DSPI.o
+ .bss           0x00000000        0x0 ./src/Modules/DSPI.o
+ .text.DSPI_Enable
+                0x00000000       0xb6 ./src/Modules/DSPI.o
+ .rodata.DSPI_Enable
+                0x00000000       0x10 ./src/Modules/DSPI.o
+ .text.DSPI_Disable
+                0x00000000       0xb6 ./src/Modules/DSPI.o
+ .rodata.DSPI_Disable
+                0x00000000       0x10 ./src/Modules/DSPI.o
+ .text.DSPI_ChangeBaudRateType
+                0x00000000       0xea ./src/Modules/DSPI.o
+ .rodata.DSPI_ChangeBaudRateType
+                0x00000000       0x10 ./src/Modules/DSPI.o
+ .text.DSPI_ChangeFrameSize
+                0x00000000      0x14e ./src/Modules/DSPI.o
+ .rodata.DSPI_ChangeFrameSize
+                0x00000000       0x10 ./src/Modules/DSPI.o
+ .text.DSPI_SetPhase
+                0x00000000       0xea ./src/Modules/DSPI.o
+ .rodata.DSPI_SetPhase
+                0x00000000       0x10 ./src/Modules/DSPI.o
+ .text.DSPI_SetPolarity
+                0x00000000       0xea ./src/Modules/DSPI.o
+ .rodata.DSPI_SetPolarity
+                0x00000000       0x10 ./src/Modules/DSPI.o
+ .text.DSPI_EnableTxFIFO
+                0x00000000       0xb6 ./src/Modules/DSPI.o
+ .rodata.DSPI_EnableTxFIFO
+                0x00000000       0x10 ./src/Modules/DSPI.o
+ .text.DSPI_DisableTxFIFO
+                0x00000000       0xb6 ./src/Modules/DSPI.o
+ .rodata.DSPI_DisableTxFIFO
+                0x00000000       0x10 ./src/Modules/DSPI.o
+ .text.DSPI_EnableRxFIFO
+                0x00000000       0xb6 ./src/Modules/DSPI.o
+ .rodata.DSPI_EnableRxFIFO
+                0x00000000       0x10 ./src/Modules/DSPI.o
+ .text.DSPI_DisableRxFIFO
+                0x00000000       0xb6 ./src/Modules/DSPI.o
+ .rodata.DSPI_DisableRxFIFO
+                0x00000000       0x10 ./src/Modules/DSPI.o
+ .text.DSPI_SendWithInt
+                0x00000000       0xd2 ./src/Modules/DSPI.o
+ .rodata.DSPI_SendWithInt
+                0x00000000       0x10 ./src/Modules/DSPI.o
+ .text.DSPI_ReadWithInt
+                0x00000000       0xfe ./src/Modules/DSPI.o
+ .rodata.DSPI_ReadWithInt
+                0x00000000       0x10 ./src/Modules/DSPI.o
+ .text.DSPI_ClearRFDF
+                0x00000000       0xb6 ./src/Modules/DSPI.o
+ .rodata.DSPI_ClearRFDF
+                0x00000000       0x10 ./src/Modules/DSPI.o
+ .debug_macro   0x00000000      0x610 ./src/Modules/DSPI.o
+ .debug_macro   0x00000000       0x40 ./src/Modules/DSPI.o
+ .debug_macro   0x00000000       0x16 ./src/Modules/DSPI.o
+ .debug_macro   0x00000000       0x64 ./src/Modules/DSPI.o
+ .debug_macro   0x00000000      0x19d ./src/Modules/DSPI.o
+ .debug_macro   0x00000000      0x133 ./src/Modules/DSPI.o
+ .debug_macro   0x00000000       0x9d ./src/Modules/DSPI.o
+ .debug_macro   0x00000000       0x10 ./src/Modules/DSPI.o
+ .debug_macro   0x00000000      0x1a1 ./src/Modules/DSPI.o
+ .debug_macro   0x00000000     0xb50a ./src/Modules/DSPI.o
+ .debug_macro   0x00000000      0x7e1 ./src/Modules/DSPI.o
+ .debug_macro   0x00000000      0x226 ./src/Modules/DSPI.o
+ .debug_macro   0x00000000       0x28 ./src/Modules/DSPI.o
+ .debug_macro   0x00000000       0x16 ./src/Modules/DSPI.o
+ .debug_macro   0x00000000       0xd0 ./src/Modules/DSPI.o
+ .debug_macro   0x00000000      0x194 ./src/Modules/DSPI.o
+ .debug_macro   0x00000000       0xac ./src/Modules/DSPI.o
+ .debug_macro   0x00000000       0x16 ./src/Modules/DSPI.o
+ .debug_macro   0x00000000      0x193 ./src/Modules/DSPI.o
+ .group         0x00000000        0x8 ./src/Modules/CAN.o
+ .group         0x00000000        0x8 ./src/Modules/CAN.o
+ .group         0x00000000        0x8 ./src/Modules/CAN.o
+ .group         0x00000000        0x8 ./src/Modules/CAN.o
+ .group         0x00000000        0x8 ./src/Modules/CAN.o
+ .group         0x00000000        0x8 ./src/Modules/CAN.o
+ .group         0x00000000        0x8 ./src/Modules/CAN.o
+ .group         0x00000000        0x8 ./src/Modules/CAN.o
+ .group         0x00000000        0x8 ./src/Modules/CAN.o
+ .group         0x00000000        0x8 ./src/Modules/CAN.o
+ .group         0x00000000        0x8 ./src/Modules/CAN.o
+ .group         0x00000000        0x8 ./src/Modules/CAN.o
+ .text          0x00000000        0x0 ./src/Modules/CAN.o
+ .data          0x00000000        0x0 ./src/Modules/CAN.o
+ .bss           0x00000000        0x0 ./src/Modules/CAN.o
+ .text.CAN_Stop
+                0x00000000       0x90 ./src/Modules/CAN.o
+ .debug_macro   0x00000000      0x610 ./src/Modules/CAN.o
+ .debug_macro   0x00000000       0x40 ./src/Modules/CAN.o
+ .debug_macro   0x00000000       0x16 ./src/Modules/CAN.o
+ .debug_macro   0x00000000       0x64 ./src/Modules/CAN.o
+ .debug_macro   0x00000000      0x19d ./src/Modules/CAN.o
+ .debug_macro   0x00000000      0x133 ./src/Modules/CAN.o
+ .debug_macro   0x00000000       0x9d ./src/Modules/CAN.o
+ .debug_macro   0x00000000       0x10 ./src/Modules/CAN.o
+ .debug_macro   0x00000000      0x1a1 ./src/Modules/CAN.o
+ .debug_macro   0x00000000     0xb50a ./src/Modules/CAN.o
+ .debug_macro   0x00000000      0x7e1 ./src/Modules/CAN.o
+ .group         0x00000000        0x8 ./src/Modules/ADC.o
+ .group         0x00000000        0x8 ./src/Modules/ADC.o
+ .group         0x00000000        0x8 ./src/Modules/ADC.o
+ .group         0x00000000        0x8 ./src/Modules/ADC.o
+ .group         0x00000000        0x8 ./src/Modules/ADC.o
+ .group         0x00000000        0x8 ./src/Modules/ADC.o
+ .group         0x00000000        0x8 ./src/Modules/ADC.o
+ .group         0x00000000        0x8 ./src/Modules/ADC.o
+ .group         0x00000000        0x8 ./src/Modules/ADC.o
+ .group         0x00000000        0x8 ./src/Modules/ADC.o
+ .group         0x00000000        0x8 ./src/Modules/ADC.o
+ .group         0x00000000        0x8 ./src/Modules/ADC.o
+ .group         0x00000000        0x8 ./src/Modules/ADC.o
+ .group         0x00000000        0x8 ./src/Modules/ADC.o
+ .group         0x00000000        0x8 ./src/Modules/ADC.o
+ .group         0x00000000        0x8 ./src/Modules/ADC.o
+ .group         0x00000000        0x8 ./src/Modules/ADC.o
+ .group         0x00000000        0x8 ./src/Modules/ADC.o
+ .group         0x00000000        0x8 ./src/Modules/ADC.o
+ .text          0x00000000        0x0 ./src/Modules/ADC.o
+ .data          0x00000000        0x0 ./src/Modules/ADC.o
+ .bss           0x00000000        0x0 ./src/Modules/ADC.o
+ .text.ADC_IsNormalConvRunning
+                0x00000000       0xbc ./src/Modules/ADC.o
+ .rodata.ADC_IsNormalConvRunning
+                0x00000000       0x10 ./src/Modules/ADC.o
+ .text.ADC_IsInjectedConvAborted
+                0x00000000       0xbc ./src/Modules/ADC.o
+ .rodata.ADC_IsInjectedConvAborted
+                0x00000000       0x10 ./src/Modules/ADC.o
+ .text.ADC_IsInjectedConvRunning
+                0x00000000       0xbc ./src/Modules/ADC.o
+ .rodata.ADC_IsInjectedConvRunning
+                0x00000000       0x10 ./src/Modules/ADC.o
+ .text.ADC_IsCTUconvRunning
+                0x00000000       0xbc ./src/Modules/ADC.o
+ .rodata.ADC_IsCTUconvRunning
+                0x00000000       0x10 ./src/Modules/ADC.o
+ .text.ADC_GetCurrentChannelAddress
+                0x00000000       0xbc ./src/Modules/ADC.o
+ .rodata.ADC_GetCurrentChannelAddress
+                0x00000000       0x10 ./src/Modules/ADC.o
+ .text.ADC_GetAutoClockOffState
+                0x00000000       0xbc ./src/Modules/ADC.o
+ .rodata.ADC_GetAutoClockOffState
+                0x00000000       0x10 ./src/Modules/ADC.o
+ .text.ADC_GetStatus
+                0x00000000       0xb8 ./src/Modules/ADC.o
+ .rodata.ADC_GetStatus
+                0x00000000       0x10 ./src/Modules/ADC.o
+ .text.ADC_StopConversion
+                0x00000000       0xce ./src/Modules/ADC.o
+ .rodata.ADC_StopConversion
+                0x00000000       0x10 ./src/Modules/ADC.o
+ .text.ADC_StartInjectedConversion
+                0x00000000       0xca ./src/Modules/ADC.o
+ .rodata.ADC_StartInjectedConversion
+                0x00000000       0x10 ./src/Modules/ADC.o
+ .text.ADC_SetOneShotMode
+                0x00000000       0xba ./src/Modules/ADC.o
+ .rodata.ADC_SetOneShotMode
+                0x00000000       0x10 ./src/Modules/ADC.o
+ .text.ADC_SetScanMode
+                0x00000000       0xba ./src/Modules/ADC.o
+ .rodata.ADC_SetScanMode
+                0x00000000       0x10 ./src/Modules/ADC.o
+ .text.ADC_AutoClockOffEnable
+                0x00000000       0xba ./src/Modules/ADC.o
+ .rodata.ADC_AutoClockOffEnable
+                0x00000000       0x10 ./src/Modules/ADC.o
+ .text.ADC_AutoClockOffDisable
+                0x00000000       0xba ./src/Modules/ADC.o
+ .rodata.ADC_AutoClockOffDisable
+                0x00000000       0x10 ./src/Modules/ADC.o
+ .text.ADC_ClearEOCflag
+                0x00000000       0xc8 ./src/Modules/ADC.o
+ .rodata.ADC_ClearEOCflag
+                0x00000000       0x10 ./src/Modules/ADC.o
+ .text.ADC_ClearEOCTUflag
+                0x00000000       0xba ./src/Modules/ADC.o
+ .rodata.ADC_ClearEOCTUflag
+                0x00000000       0x10 ./src/Modules/ADC.o
+ .text.ADC_ClearJEOCflag
+                0x00000000       0xba ./src/Modules/ADC.o
+ .rodata.ADC_ClearJEOCflag
+                0x00000000       0x10 ./src/Modules/ADC.o
+ .text.ADC_ClearJECHflag
+                0x00000000       0xba ./src/Modules/ADC.o
+ .rodata.ADC_ClearJECHflag
+                0x00000000       0x10 ./src/Modules/ADC.o
+ .text.ADC_ClearECHflag
+                0x00000000       0xba ./src/Modules/ADC.o
+ .rodata.ADC_ClearECHflag
+                0x00000000       0x10 ./src/Modules/ADC.o
+ .text.ADC_SetThldRegister
+                0x00000000      0x4c8 ./src/Modules/ADC.o
+ .rodata.ADC_SetThldRegister
+                0x00000000       0x50 ./src/Modules/ADC.o
+ .text.ADC_SetThldForChannel
+                0x00000000      0x432 ./src/Modules/ADC.o
+ .rodata.ADC_SetThldForChannel
+                0x00000000       0x50 ./src/Modules/ADC.o
+ .text.ADC_ClearThldFlags
+                0x00000000       0xb2 ./src/Modules/ADC.o
+ .rodata.ADC_ClearThldFlags
+                0x00000000       0x10 ./src/Modules/ADC.o
+ .text.ADC_SetVDDforPresampling
+                0x00000000       0xdc ./src/Modules/ADC.o
+ .rodata.ADC_SetVDDforPresampling
+                0x00000000       0x10 ./src/Modules/ADC.o
+ .text.ADC_SetVSSforPresampling
+                0x00000000       0xdc ./src/Modules/ADC.o
+ .rodata.ADC_SetVSSforPresampling
+                0x00000000       0x10 ./src/Modules/ADC.o
+ .text.ADC_DisableSampleBypass
+                0x00000000       0xba ./src/Modules/ADC.o
+ .rodata.ADC_DisableSampleBypass
+                0x00000000       0x10 ./src/Modules/ADC.o
+ .text.ADC_EnableSampleBypass
+                0x00000000       0xba ./src/Modules/ADC.o
+ .rodata.ADC_EnableSampleBypass
+                0x00000000       0x10 ./src/Modules/ADC.o
+ .text.ADC_SetSamplingTime
+                0x00000000      0x1c4 ./src/Modules/ADC.o
+ .rodata.ADC_SetSamplingTime
+                0x00000000       0x10 ./src/Modules/ADC.o
+ .debug_macro   0x00000000      0x610 ./src/Modules/ADC.o
+ .debug_macro   0x00000000       0x40 ./src/Modules/ADC.o
+ .debug_macro   0x00000000       0x16 ./src/Modules/ADC.o
+ .debug_macro   0x00000000       0x64 ./src/Modules/ADC.o
+ .debug_macro   0x00000000      0x19d ./src/Modules/ADC.o
+ .debug_macro   0x00000000      0x133 ./src/Modules/ADC.o
+ .debug_macro   0x00000000       0x28 ./src/Modules/ADC.o
+ .debug_macro   0x00000000       0x16 ./src/Modules/ADC.o
+ .debug_macro   0x00000000       0xd0 ./src/Modules/ADC.o
+ .debug_macro   0x00000000       0x9d ./src/Modules/ADC.o
+ .debug_macro   0x00000000       0x10 ./src/Modules/ADC.o
+ .debug_macro   0x00000000      0x1a1 ./src/Modules/ADC.o
+ .debug_macro   0x00000000       0xac ./src/Modules/ADC.o
+ .debug_macro   0x00000000       0x16 ./src/Modules/ADC.o
+ .debug_macro   0x00000000      0x193 ./src/Modules/ADC.o
+ .debug_macro   0x00000000     0xb50a ./src/Modules/ADC.o
+ .debug_macro   0x00000000      0x7e1 ./src/Modules/ADC.o
+ .debug_macro   0x00000000      0x1c1 ./src/Modules/ADC.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .group         0x00000000        0x8 ./src/main.o
+ .text          0x00000000        0x0 ./src/main.o
+ .data          0x00000000        0x0 ./src/main.o
+ .bss           0x00000000        0x0 ./src/main.o
+ .debug_macro   0x00000000      0x610 ./src/main.o
+ .debug_macro   0x00000000       0x40 ./src/main.o
+ .debug_macro   0x00000000       0x16 ./src/main.o
+ .debug_macro   0x00000000       0x64 ./src/main.o
+ .debug_macro   0x00000000      0x19d ./src/main.o
+ .debug_macro   0x00000000      0x133 ./src/main.o
+ .debug_macro   0x00000000       0x9d ./src/main.o
+ .debug_macro   0x00000000       0x10 ./src/main.o
+ .debug_macro   0x00000000      0x1a1 ./src/main.o
+ .debug_macro   0x00000000     0xb50a ./src/main.o
+ .debug_macro   0x00000000      0x124 ./src/main.o
+ .debug_macro   0x00000000      0x17d ./src/main.o
+ .debug_macro   0x00000000      0x7e1 ./src/main.o
+ .debug_macro   0x00000000      0x226 ./src/main.o
+ .debug_macro   0x00000000      0x124 ./src/main.o
+ .debug_macro   0x00000000       0x16 ./src/main.o
+ .debug_macro   0x00000000      0x1c1 ./src/main.o
+ .debug_macro   0x00000000      0x112 ./src/main.o
+ .debug_macro   0x00000000       0x22 ./src/main.o
+ .debug_macro   0x00000000       0x16 ./src/main.o
+ .text          0x00000000        0x0 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(round.o)
+ .data          0x00000000        0x0 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(round.o)
+ .bss           0x00000000        0x0 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(round.o)
+ .text.__ewl_count_bits32
+                0x00000000        0x4 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(round.o)
+ .text.__ewl_count_leading_zero32
+                0x00000000        0x4 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(round.o)
+ .text.__ewl_count_trailing_zero32
+                0x00000000       0x10 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(round.o)
+ .text.__ewl_count_leading_one32
+                0x00000000        0x6 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(round.o)
+ .text.__ewl_count_trailing_one32
+                0x00000000        0x6 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(round.o)
+ .text.__ewl_rotate_left32
+                0x00000000        0x8 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(round.o)
+ .text.__ewl_rotate_right32
+                0x00000000        0xc C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(round.o)
+ .text.__ewl_count_bits64
+                0x00000000        0x4 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(round.o)
+ .text.__ewl_count_leading_zero64
+                0x00000000        0x4 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(round.o)
+ .text.__ewl_count_trailing_zero64
+                0x00000000       0x1c C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(round.o)
+ .text.__ewl_count_leading_one64
+                0x00000000        0x8 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(round.o)
+ .text.__ewl_count_trailing_one64
+                0x00000000        0x8 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(round.o)
+ .text.__ewl_rotate_left64
+                0x00000000       0x3a C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(round.o)
+ .text.__ewl_rotate_right64
+                0x00000000       0x3a C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(round.o)
+ .text.round    0x00000000       0x9c C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(round.o)
+ .text          0x00000000        0x0 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_floor.o)
+ .data          0x00000000        0x0 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_floor.o)
+ .bss           0x00000000        0x0 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_floor.o)
+ .text.__ewl_count_bits32
+                0x00000000        0x4 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_floor.o)
+ .text.__ewl_count_leading_zero32
+                0x00000000        0x4 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_floor.o)
+ .text.__ewl_count_trailing_zero32
+                0x00000000       0x10 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_floor.o)
+ .text.__ewl_count_leading_one32
+                0x00000000        0x6 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_floor.o)
+ .text.__ewl_count_trailing_one32
+                0x00000000        0x6 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_floor.o)
+ .text.__ewl_rotate_left32
+                0x00000000        0x8 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_floor.o)
+ .text.__ewl_rotate_right32
+                0x00000000        0xc C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_floor.o)
+ .text.__ewl_count_bits64
+                0x00000000        0x4 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_floor.o)
+ .text.__ewl_count_leading_zero64
+                0x00000000        0x4 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_floor.o)
+ .text.__ewl_count_trailing_zero64
+                0x00000000       0x1c C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_floor.o)
+ .text.__ewl_count_leading_one64
+                0x00000000        0x8 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_floor.o)
+ .text.__ewl_count_trailing_one64
+                0x00000000        0x8 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_floor.o)
+ .text.__ewl_rotate_left64
+                0x00000000       0x3a C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_floor.o)
+ .text.__ewl_rotate_right64
+                0x00000000       0x3a C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_floor.o)
+ .text.floor    0x00000000      0x15c C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_floor.o)
+ .text          0x00000000        0x0 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_modf.o)
+ .data          0x00000000        0x0 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_modf.o)
+ .bss           0x00000000        0x0 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_modf.o)
+ .text.__ewl_count_bits32
+                0x00000000        0x4 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_modf.o)
+ .text.__ewl_count_leading_zero32
+                0x00000000        0x4 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_modf.o)
+ .text.__ewl_count_trailing_zero32
+                0x00000000       0x10 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_modf.o)
+ .text.__ewl_count_leading_one32
+                0x00000000        0x6 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_modf.o)
+ .text.__ewl_count_trailing_one32
+                0x00000000        0x6 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_modf.o)
+ .text.__ewl_rotate_left32
+                0x00000000        0x8 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_modf.o)
+ .text.__ewl_rotate_right32
+                0x00000000        0xc C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_modf.o)
+ .text.__ewl_count_bits64
+                0x00000000        0x4 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_modf.o)
+ .text.__ewl_count_leading_zero64
+                0x00000000        0x4 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_modf.o)
+ .text.__ewl_count_trailing_zero64
+                0x00000000       0x1c C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_modf.o)
+ .text.__ewl_count_leading_one64
+                0x00000000        0x8 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_modf.o)
+ .text.__ewl_count_trailing_one64
+                0x00000000        0x8 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_modf.o)
+ .text.__ewl_rotate_left64
+                0x00000000       0x3a C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_modf.o)
+ .text.__ewl_rotate_right64
+                0x00000000       0x3a C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_modf.o)
+ .text.modf     0x00000000       0xee C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_modf.o)
+ .text          0x00000000        0x0 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(math_api.o)
+ .data          0x00000000        0x0 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(math_api.o)
+ .bss           0x00000000        0x0 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(math_api.o)
+ .text.__ewl_rotate_left32
+                0x00000000        0x8 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(math_api.o)
+ .text.__ewl_rotate_right32
+                0x00000000        0xc C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(math_api.o)
+ .text.__ewl_rotate_left64
+                0x00000000       0x3a C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(math_api.o)
+ .text.__ewl_rotate_right64
+                0x00000000       0x3a C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(math_api.o)
+ .text.__ewl_generic_count_bits32
+                0x00000000       0x54 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(math_api.o)
+ .text.__ewl_count_bits32
+                0x00000000        0x4 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(math_api.o)
+ .text.__ewl_count_trailing_zero32
+                0x00000000       0x10 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(math_api.o)
+ .text.__ewl_count_trailing_one32
+                0x00000000        0x6 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(math_api.o)
+ .text.__ewl_generic_count_leading_zero32
+                0x00000000       0x40 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(math_api.o)
+ .text.__ewl_count_leading_zero32
+                0x00000000        0x4 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(math_api.o)
+ .text.__ewl_count_leading_one32
+                0x00000000        0x6 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(math_api.o)
+ .text.__ewl_generic_count_bits64
+                0x00000000       0xc4 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(math_api.o)
+ .text.__ewl_count_bits64
+                0x00000000        0x4 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(math_api.o)
+ .text.__ewl_count_trailing_zero64
+                0x00000000       0x1c C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(math_api.o)
+ .text.__ewl_count_trailing_one64
+                0x00000000        0x8 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(math_api.o)
+ .text.__ewl_generic_count_leading_zero64
+                0x00000000       0x92 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(math_api.o)
+ .text.__ewl_count_leading_zero64
+                0x00000000        0x4 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(math_api.o)
+ .text.__ewl_count_leading_one64
+                0x00000000        0x8 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(math_api.o)
+ .text.__signbitf
+                0x00000000        0x4 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(math_api.o)
+ .text.__fpclassifyf
+                0x00000000       0x42 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(math_api.o)
+ .text.__signbitd
+                0x00000000        0x4 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(math_api.o)
+ .text.__fpclassifyd
+                0x00000000       0x4e C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(math_api.o)
+ .text.__ewl_relation
+                0x00000000       0x6e C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(math_api.o)
+ .text          0x00000000       0x34 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_lshrdi3.o)
+ .data          0x00000000        0x0 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_lshrdi3.o)
+ .bss           0x00000000        0x0 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_lshrdi3.o)
+ .text          0x00000000       0x36 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_ashldi3.o)
+ .data          0x00000000        0x0 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_ashldi3.o)
+ .bss           0x00000000        0x0 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_ashldi3.o)
+ .data          0x00000000        0x0 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_fixunsdfsi.o)
+ .bss           0x00000000        0x0 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_fixunsdfsi.o)
+ .data          0x00000000        0x0 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_addsub_df.o)
+ .bss           0x00000000        0x0 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_addsub_df.o)
+ .data          0x00000000        0x0 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_mul_df.o)
+ .bss           0x00000000        0x0 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_mul_df.o)
+ .data          0x00000000        0x0 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_div_df.o)
+ .bss           0x00000000        0x0 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_div_df.o)
+ .text          0x00000000       0x6c c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_gt_df.o)
+ .data          0x00000000        0x0 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_gt_df.o)
+ .bss           0x00000000        0x0 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_gt_df.o)
+ .data          0x00000000        0x0 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_ge_df.o)
+ .bss           0x00000000        0x0 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_ge_df.o)
+ .text          0x00000000       0x6c c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_lt_df.o)
+ .data          0x00000000        0x0 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_lt_df.o)
+ .bss           0x00000000        0x0 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_lt_df.o)
+ .data          0x00000000        0x0 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_si_to_df.o)
+ .bss           0x00000000        0x0 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_si_to_df.o)
+ .data          0x00000000        0x0 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_df_to_si.o)
+ .bss           0x00000000        0x0 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_df_to_si.o)
+ .data          0x00000000        0x0 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_df_to_sf.o)
+ .bss           0x00000000        0x0 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_df_to_sf.o)
+ .text          0x00000000        0x0 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_thenan_df.o)
+ .data          0x00000000        0x0 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_thenan_df.o)
+ .bss           0x00000000        0x0 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_thenan_df.o)
+ .data          0x00000000        0x0 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_usi_to_df.o)
+ .bss           0x00000000        0x0 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_usi_to_df.o)
+ .text          0x00000000       0x52 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(e200crtresxgpr.o)
+ .data          0x00000000        0x0 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(e200crtresxgpr.o)
+ .bss           0x00000000        0x0 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(e200crtresxgpr.o)
+ .eh_frame      0x00000000       0x7c c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(e200crtresxgpr.o)
+ .data          0x00000000        0x0 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_make_sf.o)
+ .bss           0x00000000        0x0 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_make_sf.o)
+ .data          0x00000000        0x0 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_pack_df.o)
+ .bss           0x00000000        0x0 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_pack_df.o)
+ .data          0x00000000        0x0 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_unpack_df.o)
+ .bss           0x00000000        0x0 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_unpack_df.o)
+ .data          0x00000000        0x0 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_fpcmp_parts_df.o)
+ .bss           0x00000000        0x0 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_fpcmp_parts_df.o)
+ .data          0x00000000        0x0 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_pack_sf.o)
+ .bss           0x00000000        0x0 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_pack_sf.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+flash_rchw       0x00fa0000         0x00000004
+cpu0_reset_vec   0x00fa0004         0x00000004
+m_text           0x01000000         0x00200000
+m_data           0x40000000         0x00060000
+int_dram         0x50800000         0x00010000
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./Project_Settings/Startup_Code/startup.o
+LOAD ./src/Interrupts/intc_sw_handlers.o
+LOAD ./src/Interrupts/intc_SW_mode_isr_vectors_MPC5744P.o
+LOAD ./src/Interrupts/flashrchw.o
+LOAD ./src/Interrupts/Vector.o
+LOAD ./src/Interrupts/MPC57xx__Interrupt_Init.o
+LOAD ./src/Modules/SIUL.o
+LOAD ./src/Modules/PIT.o
+LOAD ./src/Modules/ME.o
+LOAD ./src/Modules/LINFLEX.o
+LOAD ./src/Modules/FS65xx.o
+LOAD ./src/Modules/FCCU.o
+LOAD ./src/Modules/DSPI.o
+LOAD ./src/Modules/CAN.o
+LOAD ./src/Modules/ADC.o
+LOAD ./src/main.o
+START GROUP
+LOAD C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libc.a
+LOAD C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a
+LOAD c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a
+END GROUP
+                0x00000000                __HEAP_SIZE = 0x0
+                0x00001000                __STACK_SIZE = 0x1000
+                0x00060000                SRAM_SIZE = 0x60000
+                0x40000000                SRAM_BASE_ADDR = 0x40000000
+                0x00010000                LOCALDMEM_SIZE = 0x10000
+                0x50800000                LOCALDMEM_BASE_ADDR = 0x50800000
+
+.rchw           0x00fa0000        0x4
+ *(.rchw)
+ .rchw          0x00fa0000        0x4 ./src/Interrupts/flashrchw.o
+                0x00fa0000                RCHW1
+
+.cpu0_reset_vector
+                0x00fa0004        0x4
+ *(.cpu0_reset_vector)
+ .cpu0_reset_vector
+                0x00fa0004        0x4 ./src/Interrupts/flashrchw.o
+                0x00fa0004                RCHW2
+
+.startup        0x01000000      0x292
+                0x01000000                __start = .
+ *(.startup)
+ .startup       0x01000000      0x292 ./Project_Settings/Startup_Code/startup.o
+                0x01000000                _start
+
+.core_exceptions_table
+                0x01001000       0xf4
+                0x01001000                __IVPR_VALUE = .
+ *(.core_exceptions_table)
+ .core_exceptions_table
+                0x01001000       0xf4 ./src/Interrupts/Vector.o
+                0x01001000                IVOR0_Vector
+                0x01001000                VTABLE
+                0x01001010                IVOR1_Vector
+                0x01001020                IVOR2_Vector
+                0x01001030                IVOR3_Vector
+                0x01001040                IVOR4_Vector
+                0x01001050                IVOR5_Vector
+                0x01001060                IVOR6_Vector
+                0x01001070                IVOR7_Vector
+                0x01001080                IVOR8_Vector
+                0x01001090                IVOR9_Vector
+                0x010010a0                IVOR10_Vector
+                0x010010b0                IVOR11_Vector
+                0x010010c0                IVOR12_Vector
+                0x010010d0                IVOR13_Vector
+                0x010010e0                IVOR14_Vector
+                0x010010f0                IVOR15_Vector
+
+.intc_vector_table
+                0x01002000      0xb78
+ *(.intc_vector_table)
+ .intc_vector_table
+                0x01002000      0xb78 ./src/Interrupts/intc_SW_mode_isr_vectors_MPC5744P.o
+                0x01002000                IntcIsrVectorTable
+
+.text           0x01002b80     0x8ce0
+ *(.text.startup)
+ *(.text)
+ .text          0x01002b80       0x48 ./src/Interrupts/intc_sw_handlers.o
+                0x01002b80                IVOR4_Handler
+ .text          0x01002bc8       0x58 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_fixunsdfsi.o)
+                0x01002bc8                __fixunsdfsi
+ .text          0x01002c20      0x3f4 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_addsub_df.o)
+                0x01002f54                __adddf3
+                0x01002fae                __subdf3
+ .text          0x01003014      0x29e c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_mul_df.o)
+                0x01003014                __muldf3
+ .text          0x010032b2      0x1ac c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_div_df.o)
+                0x010032b2                __divdf3
+ .text          0x0100345e       0x6c c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_ge_df.o)
+                0x0100345e                __gedf2
+ .text          0x010034ca       0xa2 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_si_to_df.o)
+                0x010034ca                __floatsidf
+ .text          0x0100356c       0xc6 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_df_to_si.o)
+                0x0100356c                __fixdfsi
+ .text          0x01003632       0x4a c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_df_to_sf.o)
+                0x01003632                __truncdfsf2
+ .text          0x0100367c       0x88 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_usi_to_df.o)
+                0x0100367c                __floatunsidf
+ .text          0x01003704       0x20 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_make_sf.o)
+                0x01003704                __make_fp
+ .text          0x01003724      0x218 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_pack_df.o)
+                0x01003724                __pack_d
+ .text          0x0100393c       0xec c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_unpack_df.o)
+                0x0100393c                __unpack_d
+ .text          0x01003a28       0xe4 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_fpcmp_parts_df.o)
+                0x01003a28                __fpcmp_parts_d
+ .text          0x01003b0c      0x154 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_pack_sf.o)
+                0x01003b0c                __pack_f
+ *(.init)
+ *(.text.*)
+ .text.dummy    0x01003c60        0xc ./src/Interrupts/intc_SW_mode_isr_vectors_MPC5744P.o
+                0x01003c60                dummy
+ .text.SetIVPR  0x01003c6c       0x1a ./src/Interrupts/MPC57xx__Interrupt_Init.o
+                0x01003c6c                SetIVPR
+ .text.InitINTC
+                0x01003c86       0x3c ./src/Interrupts/MPC57xx__Interrupt_Init.o
+                0x01003c86                InitINTC
+ .text.enableIrq
+                0x01003cc2       0x24 ./src/Interrupts/MPC57xx__Interrupt_Init.o
+                0x01003cc2                enableIrq
+ .text.xcptn_xmpl
+                0x01003ce6       0x94 ./src/Interrupts/MPC57xx__Interrupt_Init.o
+                0x01003ce6                xcptn_xmpl
+ .text.SIUL_DigitalInput
+                0x01003d7a       0x68 ./src/Modules/SIUL.o
+                0x01003d7a                SIUL_DigitalInput
+ .text.SIUL_DigitalInputSimple
+                0x01003de2       0x40 ./src/Modules/SIUL.o
+                0x01003de2                SIUL_DigitalInputSimple
+ .text.SIUL_AnalogInput
+                0x01003e22       0x3c ./src/Modules/SIUL.o
+                0x01003e22                SIUL_AnalogInput
+ .text.SIUL_DigitalOutput
+                0x01003e5e       0x40 ./src/Modules/SIUL.o
+                0x01003e5e                SIUL_DigitalOutput
+ .text.SIUL_DigitalIO
+                0x01003e9e       0x40 ./src/Modules/SIUL.o
+                0x01003e9e                SIUL_DigitalIO
+ .text.SIUL_ToggleIO
+                0x01003ede       0x4e ./src/Modules/SIUL.o
+                0x01003ede                SIUL_ToggleIO
+ .text.SIUL_EnableExtInt
+                0x01003f2c       0x2e ./src/Modules/SIUL.o
+                0x01003f2c                SIUL_EnableExtInt
+ .text.SIUL_EnableExtIntFallingEdge
+                0x01003f5a       0x46 ./src/Modules/SIUL.o
+                0x01003f5a                SIUL_EnableExtIntFallingEdge
+ .text.SIUL_ClearExtIntFlag
+                0x01003fa0       0x22 ./src/Modules/SIUL.o
+                0x01003fa0                SIUL_ClearExtIntFlag
+ .text.SIUL_ClearPad
+                0x01003fc2       0x32 ./src/Modules/SIUL.o
+                0x01003fc2                SIUL_ClearPad
+ .text.PIT_Init
+                0x01003ff4       0x44 ./src/Modules/PIT.o
+                0x01003ff4                PIT_Init
+ .text.PIT_Setup
+                0x01004038       0x4c ./src/Modules/PIT.o
+                0x01004038                PIT_Setup
+ .text.PIT_EnableInt
+                0x01004084       0x6a ./src/Modules/PIT.o
+                0x01004084                PIT_EnableInt
+ .text.PIT_EnableChannel
+                0x010040ee       0x46 ./src/Modules/PIT.o
+                0x010040ee                PIT_EnableChannel
+ .text.PIT_GetFlag
+                0x01004134       0x48 ./src/Modules/PIT.o
+                0x01004134                PIT_GetFlag
+ .text.PIT_ClearFlag
+                0x0100417c       0x3e ./src/Modules/PIT.o
+                0x0100417c                PIT_ClearFlag
+ .text.PIT_DisableChannel
+                0x010041ba       0x46 ./src/Modules/PIT.o
+                0x010041ba                PIT_DisableChannel
+ .text.PIT_wait_micsec
+                0x01004200       0x5c ./src/Modules/PIT.o
+                0x01004200                PIT_wait_micsec
+ .text.MC_MODE_INIT
+                0x0100425c      0x342 ./src/Modules/ME.o
+                0x0100425c                MC_MODE_INIT
+ .text.FS65_ErrorCallback
+                0x0100459e       0x1e ./src/Modules/FS65xx.o
+                0x0100459e                FS65_ErrorCallback
+ .text.FS65_SPI_INT_Callback
+                0x010045bc       0x14 ./src/Modules/FS65xx.o
+                0x010045bc                FS65_SPI_INT_Callback
+ .text.FS65_PHYWU_INT_Callback
+                0x010045d0       0x14 ./src/Modules/FS65xx.o
+                0x010045d0                FS65_PHYWU_INT_Callback
+ .text.FS65_AutoWU_INT_Callback
+                0x010045e4       0x14 ./src/Modules/FS65xx.o
+                0x010045e4                FS65_AutoWU_INT_Callback
+ .text.FS65_LDTWU_INT_Callback
+                0x010045f8       0x14 ./src/Modules/FS65xx.o
+                0x010045f8                FS65_LDTWU_INT_Callback
+ .text.FS65_CAN_INT_Callback
+                0x0100460c       0x14 ./src/Modules/FS65xx.o
+                0x0100460c                FS65_CAN_INT_Callback
+ .text.FS65_LIN_INT_Callback
+                0x01004620       0x14 ./src/Modules/FS65xx.o
+                0x01004620                FS65_LIN_INT_Callback
+ .text.FS65_VXXX_INT_Callback
+                0x01004634       0x14 ./src/Modules/FS65xx.o
+                0x01004634                FS65_VXXX_INT_Callback
+ .text.FS65_VCORE_INT_Callback
+                0x01004648       0x14 ./src/Modules/FS65xx.o
+                0x01004648                FS65_VCORE_INT_Callback
+ .text.FS65_VPRE_INT_Callback
+                0x0100465c       0x14 ./src/Modules/FS65xx.o
+                0x0100465c                FS65_VPRE_INT_Callback
+ .text.FS65_IO_INT_Callback
+                0x01004670       0x14 ./src/Modules/FS65xx.o
+                0x01004670                FS65_IO_INT_Callback
+ .text.FS65_UserConfigNonInit
+                0x01004684       0x14 ./src/Modules/FS65xx.o
+                0x01004684                FS65_UserConfigNonInit
+ .text.FS65_Config_NonInit
+                0x01004698       0x54 ./src/Modules/FS65xx.o
+                0x01004698                FS65_Config_NonInit
+ .text.FS65_Init_FSSM
+                0x010046ec      0x1e8 ./src/Modules/FS65xx.o
+                0x010046ec                FS65_Init_FSSM
+ .text.FS65_Init_MSM
+                0x010048d4       0xb0 ./src/Modules/FS65xx.o
+                0x010048d4                FS65_Init_MSM
+ .text.FS65_Init
+                0x01004984      0x664 ./src/Modules/FS65xx.o
+                0x01004984                FS65_Init
+ .text.FS65_SelectLDTOperation
+                0x01004fe8       0xb6 ./src/Modules/FS65xx.o
+                0x01004fe8                FS65_SelectLDTOperation
+ .text.FS65_SetRTCReg
+                0x0100509e       0x84 ./src/Modules/FS65xx.o
+                0x0100509e                FS65_SetRTCReg
+ .text.FS65_SetLDTNormalMode
+                0x01005122       0x84 ./src/Modules/FS65xx.o
+                0x01005122                FS65_SetLDTNormalMode
+ .text.FS65_StartLDTCounter
+                0x010051a6       0x84 ./src/Modules/FS65xx.o
+                0x010051a6                FS65_StartLDTCounter
+ .text.FS65_ConfAfterRunValue
+                0x0100522a      0x10a ./src/Modules/FS65xx.o
+                0x0100522a                FS65_ConfAfterRunValue
+ .text.FS65_SetLPOFFmode_autoWU
+                0x01005334       0x68 ./src/Modules/FS65xx.o
+                0x01005334                FS65_SetLPOFFmode_autoWU
+ .text.FS65_SwitchAMUXchannel
+                0x0100539c       0xfe ./src/Modules/FS65xx.o
+                0x0100539c                FS65_SwitchAMUXchannel
+ .text.FS65_Set_CAN_LIN_MODE
+                0x0100549a       0xc2 ./src/Modules/FS65xx.o
+                0x0100549a                FS65_Set_CAN_LIN_MODE
+ .text.FS65_RunABIST2_VAUX
+                0x0100555c       0x68 ./src/Modules/FS65xx.o
+                0x0100555c                FS65_RunABIST2_VAUX
+ .text.FS65_RunABIST2_FS1B
+                0x010055c4       0x68 ./src/Modules/FS65xx.o
+                0x010055c4                FS65_RunABIST2_FS1B
+ .text.FS65_ChangeWDwindow
+                0x0100562c       0xca ./src/Modules/FS65xx.o
+                0x0100562c                FS65_ChangeWDwindow
+ .text.FS65_SendSeed
+                0x010056f6       0xea ./src/Modules/FS65xx.o
+                0x010056f6                FS65_SendSeed
+ .text.FS65_RefreshWD
+                0x010057e0       0x6e ./src/Modules/FS65xx.o
+                0x010057e0                FS65_RefreshWD
+ .text.FS65_ComputeLFSR
+                0x0100584e       0x58 ./src/Modules/FS65xx.o
+                0x0100584e                FS65_ComputeLFSR
+ .text.FS65_ReleaseFS0andFS1out
+                0x010058a6      0x1cc ./src/Modules/FS65xx.o
+                0x010058a6                FS65_ReleaseFS0andFS1out
+ .text.FS65_Set_INIT_VREG
+                0x01005a72       0xc6 ./src/Modules/FS65xx.o
+                0x01005a72                FS65_Set_INIT_VREG
+ .text.FS65_Set_INIT_WU1
+                0x01005b38       0xca ./src/Modules/FS65xx.o
+                0x01005b38                FS65_Set_INIT_WU1
+ .text.FS65_Set_INIT_WU2
+                0x01005c02       0xc6 ./src/Modules/FS65xx.o
+                0x01005c02                FS65_Set_INIT_WU2
+ .text.FS65_Set_INIT_INT
+                0x01005cc8       0xca ./src/Modules/FS65xx.o
+                0x01005cc8                FS65_Set_INIT_INT
+ .text.FS65_Set_INIT_INH_INT
+                0x01005d92       0xca ./src/Modules/FS65xx.o
+                0x01005d92                FS65_Set_INIT_INH_INT
+ .text.FS65_Set_INIT_FS1B_TIMING
+                0x01005e5c       0xca ./src/Modules/FS65xx.o
+                0x01005e5c                FS65_Set_INIT_FS1B_TIMING
+ .text.FS65_Set_INIT_SUPERVISOR
+                0x01005f26       0xca ./src/Modules/FS65xx.o
+                0x01005f26                FS65_Set_INIT_SUPERVISOR
+ .text.FS65_Set_INIT_FAULT
+                0x01005ff0       0xca ./src/Modules/FS65xx.o
+                0x01005ff0                FS65_Set_INIT_FAULT
+ .text.FS65_Set_INIT_FSSM
+                0x010060ba       0xca ./src/Modules/FS65xx.o
+                0x010060ba                FS65_Set_INIT_FSSM
+ .text.FS65_Set_INIT_SF_IMPACT
+                0x01006184       0xca ./src/Modules/FS65xx.o
+                0x01006184                FS65_Set_INIT_SF_IMPACT
+ .text.FS65_Set_INIT_WD_CNT
+                0x0100624e       0xca ./src/Modules/FS65xx.o
+                0x0100624e                FS65_Set_INIT_WD_CNT
+ .text.FS65_Set_INIT_VCORE_OVUV_IMPACT
+                0x01006318       0xca ./src/Modules/FS65xx.o
+                0x01006318                FS65_Set_INIT_VCORE_OVUV_IMPACT
+ .text.FS65_Set_INIT_VCCA_OVUV_IMPACT
+                0x010063e2       0xca ./src/Modules/FS65xx.o
+                0x010063e2                FS65_Set_INIT_VCCA_OVUV_IMPACT
+ .text.FS65_Set_INIT_VAUX_OVUV_IMPACT
+                0x010064ac       0xca ./src/Modules/FS65xx.o
+                0x010064ac                FS65_Set_INIT_VAUX_OVUV_IMPACT
+ .text.FS65_UpdateRegisterContent
+                0x01006576       0x36 ./src/Modules/FS65xx.o
+                0x01006576                FS65_UpdateRegisterContent
+ .text.FS65_ComputeParity
+                0x010065ac       0xf0 ./src/Modules/FS65xx.o
+                0x010065ac                FS65_ComputeParity
+ .text.FS65_ComputeSecurityBits
+                0x0100669c       0xb4 ./src/Modules/FS65xx.o
+                0x0100669c                FS65_ComputeSecurityBits
+ .text.FS65_ProcessSPI
+                0x01006750      0x5ba ./src/Modules/FS65xx.o
+                0x01006750                FS65_ProcessSPI
+ .text.FS65_SendCmdR
+                0x01006d0a      0x206 ./src/Modules/FS65xx.o
+                0x01006d0a                FS65_SendCmdR
+ .text.FS65_SendCmdW
+                0x01006f10      0x22a ./src/Modules/FS65xx.o
+                0x01006f10                FS65_SendCmdW
+ .text.FS65_SendCmdRW
+                0x0100713a      0x278 ./src/Modules/FS65xx.o
+                0x0100713a                FS65_SendCmdRW
+ .text.FS65_SendSecureCmdRW
+                0x010073b2      0x298 ./src/Modules/FS65xx.o
+                0x010073b2                FS65_SendSecureCmdRW
+ .text.FS65_SendSecureCmdW
+                0x0100764a      0x236 ./src/Modules/FS65xx.o
+                0x0100764a                FS65_SendSecureCmdW
+ .text.FS65_GetVoltageTight
+                0x01007880      0x112 ./src/Modules/FS65xx.o
+                0x01007880                FS65_GetVoltageTight
+ .text.FS65_GetVoltageWide
+                0x01007992      0x10c ./src/Modules/FS65xx.o
+                0x01007992                FS65_GetVoltageWide
+ .text.FS65_GetVoltage
+                0x01007a9e       0xd8 ./src/Modules/FS65xx.o
+                0x01007a9e                FS65_GetVoltage
+ .text.FS65_GetTemperature
+                0x01007b76      0x134 ./src/Modules/FS65xx.o
+                0x01007b76                FS65_GetTemperature
+ .text.FS65_IsrPIT_WD
+                0x01007caa      0x116 ./src/Modules/FS65xx.o
+                0x01007caa                FS65_IsrPIT_WD
+ .text.FS65_IsrSIUL
+                0x01007dc0      0x26c ./src/Modules/FS65xx.o
+                0x01007dc0                FS65_IsrSIUL
+ .text.FS65_IsrADC
+                0x0100802c      0x222 ./src/Modules/FS65xx.o
+                0x0100802c                FS65_IsrADC
+ .text.FCCU_SetProtocol
+                0x0100824e      0x166 ./src/Modules/FCCU.o
+                0x0100824e                FCCU_SetProtocol
+ .text.DSPI_Init
+                0x010083b4      0xdea ./src/Modules/DSPI.o
+                0x010083b4                DSPI_Init
+ .text.DSPI_Send
+                0x0100919e      0x1aa ./src/Modules/DSPI.o
+                0x0100919e                DSPI_Send
+ .text.DSPI_Read
+                0x01009348      0x148 ./src/Modules/DSPI.o
+                0x01009348                DSPI_Read
+ .text.DSPI_RoundBaudRate
+                0x01009490      0x428 ./src/Modules/DSPI.o
+                0x01009490                DSPI_RoundBaudRate
+ .text.CAN_ConfigurePads
+                0x010098b8       0xb8 ./src/Modules/CAN.o
+                0x010098b8                CAN_ConfigurePads
+ .text.CAN_Init
+                0x01009970      0xc5e ./src/Modules/CAN.o
+                0x01009970                CAN_Init
+ .text.CAN_Send
+                0x0100a5ce      0x140 ./src/Modules/CAN.o
+                0x0100a5ce                CAN_Send
+ .text.ADC_Init
+                0x0100a70e      0xbca ./src/Modules/ADC.o
+                0x0100a70e                ADC_Init
+ .text.ADC_StartNormalConversion
+                0x0100b2d8       0xc8 ./src/Modules/ADC.o
+                0x0100b2d8                ADC_StartNormalConversion
+ .text.ADC_GetChannelValue
+                0x0100b3a0      0x120 ./src/Modules/ADC.o
+                0x0100b3a0                ADC_GetChannelValue
+ .text.ADC_SetInt
+                0x0100b4c0       0xc2 ./src/Modules/ADC.o
+                0x0100b4c0                ADC_SetInt
+ .text.ADC_ClearAllEOCflags
+                0x0100b582       0xc6 ./src/Modules/ADC.o
+                0x0100b582                ADC_ClearAllEOCflags
+ .text.main     0x0100b648      0x20c ./src/main.o
+                0x0100b648                main
+                0x0100b860                . = ALIGN (0x10)
+ *fill*         0x0100b854        0xc 
+
+.glink          0x0100b860        0x0
+ .glink         0x0100b860        0x0 ./Project_Settings/Startup_Code/startup.o
+
+.rodata         0x0100b860      0x1ac
+ *(.rodata)
+ .rodata        0x0100b860       0x18 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_thenan_df.o)
+                0x0100b860                __thenan_df
+ *(.rodata.*)
+ .rodata.FS65_ProcessSPI
+                0x0100b878       0xd4 ./src/Modules/FS65xx.o
+ .rodata.FS65_IsrADC
+                0x0100b94c       0x20 ./src/Modules/FS65xx.o
+ .rodata.DSPI_Init
+                0x0100b96c       0x20 ./src/Modules/DSPI.o
+ .rodata.DSPI_Send
+                0x0100b98c       0x10 ./src/Modules/DSPI.o
+ .rodata.DSPI_Read
+                0x0100b99c       0x10 ./src/Modules/DSPI.o
+ .rodata.ADC_Init
+                0x0100b9ac       0x20 ./src/Modules/ADC.o
+ .rodata.ADC_StartNormalConversion
+                0x0100b9cc       0x10 ./src/Modules/ADC.o
+ .rodata.ADC_GetChannelValue
+                0x0100b9dc       0x10 ./src/Modules/ADC.o
+ .rodata.ADC_SetInt
+                0x0100b9ec       0x10 ./src/Modules/ADC.o
+ .rodata.ADC_ClearAllEOCflags
+                0x0100b9fc       0x10 ./src/Modules/ADC.o
+
+.eh_frame       0x0100ba0c        0x0
+ .eh_frame      0x0100ba0c        0x0 ./Project_Settings/Startup_Code/startup.o
+
+.eh_frame_hdr   0x0100ba0c        0x0
+ .eh_frame_hdr  0x0100ba0c        0x0 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(e200crtresxgpr.o)
+
+.data           0x40000000       0x20 load address 0x0100ba0c
+ *(.data)
+ *(.data.*)
+ .data.FS65_Registers_InitValues
+                0x40000000       0x11 ./src/Modules/FS65xx.o
+                0x40000000                FS65_Registers_InitValues
+ *fill*         0x40000011        0x3 
+ .data.CAN      0x40000014        0xc ./src/Modules/CAN.o
+                0x40000014                CAN
+
+.sdata2         0x40000020        0x0 load address 0x0100ba2c
+ *(.sdata2)
+ .sdata2        0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ *(.sdata2.*)
+
+.rela.dyn       0x40000020        0x0 load address 0x0100ba2c
+ .rela.iplt     0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.intc_vector_table
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_Init
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_SelectLDTOperation
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_SetWakeUpReg
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_SetRTCReg
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_SetLDTNormalMode
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_SetLDTCalibrationMode
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_StopLDTCounter
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_StartLDTCounter
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_EnableVKAM
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_DisableVKAM
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_EnableVcore
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_DisableVcore
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_EnableVcca
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_DisableVcca
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_EnableVaux
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_DisableVaux
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_EnableVcan
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_DisableVcan
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_EnableOUT4
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_SetOUT4
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_ClearOUT4
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_SwitchAMUXchannel
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_Set_CAN_LIN_MODE
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_SetCANmode
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_SetAutoCANTxDisable
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_ClearAutoCANTxDisable
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_SetLINmode
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_SetAutoLINTxDisable
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_ClearAutoLINTxDisable
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_ChangeWDwindow
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_SendSeed
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_ReleaseFS0out
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_ReleaseFS1out
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_ReleaseFS0andFS1out
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_Set_INIT_VREG
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_Set_INIT_WU1
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_Set_INIT_WU2
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_Set_INIT_INT
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_Set_INIT_INH_INT
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_Set_INIT_FS1B_TIMING
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_Set_INIT_SUPERVISOR
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_Set_INIT_FAULT
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_Set_INIT_FSSM
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_Set_INIT_SF_IMPACT
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_Set_INIT_WD_CNT
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_Set_INIT_VCORE_OVUV_IMPACT
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_Set_INIT_VCCA_OVUV_IMPACT
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_Set_INIT_VAUX_OVUV_IMPACT
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_ProcessSPI
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_SendCmdR
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_SendCmdW
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_SendCmdRW
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_SendSecureCmdRW
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_SendSecureCmdW
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_GetVoltageTight
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_GetVoltageWide
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_GetVoltage
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_GetTemperature
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_IsrPIT_WD
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_IsrSIUL
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.FS65_IsrADC
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text.main
+                0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .rela.text     0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+
+.sbss2
+ *(.sbss2)
+ *(.sbss2.*)
+
+.sdata          0x40000020        0x0 load address 0x0100ba2c
+ *(.sdata)
+ .sdata         0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ *(.sdata.*)
+
+.bss            0x40000020      0x1c0 load address 0x0100ba2c
+                0x40000020                __BSS_START = .
+ *(.sbss)
+ .sbss          0x40000020        0x0 ./Project_Settings/Startup_Code/startup.o
+ .sbss          0x40000020        0x8 ./src/Modules/FS65xx.o
+                0x40000020                PITstruct
+ *(.sbss.*)
+ .sbss.FS65_Error
+                0x40000028        0x1 ./src/Modules/FS65xx.o
+                0x40000028                FS65_Error
+ *(.bss)
+ *(.bss.*)
+ *fill*         0x40000029        0x3 
+ .bss.nbWDrefresh.16361
+                0x4000002c        0x4 ./src/Modules/FS65xx.o
+ .bss.FSOUTreleased.16362
+                0x40000030        0x4 ./src/Modules/FS65xx.o
+ *(COMMON)
+ COMMON         0x40000034      0x1ac ./src/Modules/FS65xx.o
+                0x40000034                ADCstruct
+                0x40000058                INTstructPrevious
+                0x40000110                SPIstruct
+                0x40000128                INTstruct
+                0x400001e0                __BSS_END = .
+
+.iplt           0x400001e0        0x0 load address 0x0100ba2c
+ .iplt          0x400001e0        0x0 ./Project_Settings/Startup_Code/startup.o
+
+.stack          0x400001e0     0x1004 load address 0x0100ba30
+                0x400001e0                __HEAP = .
+                0x400001e0                . = (. + __HEAP_SIZE)
+                0x400001e0                __HEAP_END = .
+                0x400001e0                _stack_end = .
+                0x400011e0                . = (. + __STACK_SIZE)
+ *fill*         0x400001e0     0x1000 
+                0x400011e0                _stack_addr = .
+                0x400011e0                __SP_INIT = .
+                0x400011e4                . = (. + 0x4)
+ *fill*         0x400011e0        0x4 
+                0x40000000                __DATA_SRAM_ADDR = ADDR (.data)
+                0x40000020                __SDATA_SRAM_ADDR = ADDR (.sdata)
+                0x00000020                __DATA_SIZE = SIZEOF (.data)
+                0x00000000                __SDATA_SIZE = SIZEOF (.sdata)
+                0x0100ba0c                __DATA_ROM_ADDR = LOADADDR (.data)
+                0x0100ba2c                __SDATA_ROM_ADDR = LOADADDR (.sdata)
+                0x00060000                __SRAM_SIZE = SRAM_SIZE
+                0x40000000                __SRAM_BASE_ADDR = SRAM_BASE_ADDR
+                0x00010000                __LOCAL_DMEM_SIZE = LOCALDMEM_SIZE
+                0x50800000                __LOCAL_DMEM_BASE_ADDR = LOCALDMEM_BASE_ADDR
+                0x000001c0                __BSS_SIZE = (__BSS_END - __BSS_START)
+OUTPUT(MPC5744P_FS65_example.elf elf32-powerpc)
+
+.PPC.EMB.apuinfo
+                0x00000000       0x20
+ .PPC.EMB.apuinfo
+                0x00000000       0x18 ./Project_Settings/Startup_Code/startup.o
+ .PPC.EMB.apuinfo
+                0x00000018       0x18 ./src/Interrupts/intc_sw_handlers.o
+ .PPC.EMB.apuinfo
+                0x00000030       0x18 ./src/Interrupts/intc_SW_mode_isr_vectors_MPC5744P.o
+ .PPC.EMB.apuinfo
+                0x00000048       0x18 ./src/Interrupts/Vector.o
+ .PPC.EMB.apuinfo
+                0x00000060       0x18 ./src/Interrupts/MPC57xx__Interrupt_Init.o
+ .PPC.EMB.apuinfo
+                0x00000078       0x18 ./src/Modules/SIUL.o
+ .PPC.EMB.apuinfo
+                0x00000090       0x18 ./src/Modules/PIT.o
+ .PPC.EMB.apuinfo
+                0x000000a8       0x18 ./src/Modules/ME.o
+ .PPC.EMB.apuinfo
+                0x000000c0       0x18 ./src/Modules/LINFLEX.o
+ .PPC.EMB.apuinfo
+                0x000000d8       0x18 ./src/Modules/FS65xx.o
+ .PPC.EMB.apuinfo
+                0x000000f0       0x18 ./src/Modules/FCCU.o
+ .PPC.EMB.apuinfo
+                0x00000108       0x18 ./src/Modules/DSPI.o
+ .PPC.EMB.apuinfo
+                0x00000120       0x18 ./src/Modules/CAN.o
+ .PPC.EMB.apuinfo
+                0x00000138       0x1c ./src/Modules/ADC.o
+ .PPC.EMB.apuinfo
+                0x00000154       0x18 ./src/main.o
+ .PPC.EMB.apuinfo
+                0x0000016c       0x18 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(round.o)
+ .PPC.EMB.apuinfo
+                0x00000184       0x1c C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_floor.o)
+ .PPC.EMB.apuinfo
+                0x000001a0       0x18 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_modf.o)
+ .PPC.EMB.apuinfo
+                0x000001b8       0x1c C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(math_api.o)
+ .PPC.EMB.apuinfo
+                0x000001d4       0x18 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_lshrdi3.o)
+ .PPC.EMB.apuinfo
+                0x000001ec       0x18 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_ashldi3.o)
+ .PPC.EMB.apuinfo
+                0x00000204       0x18 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_fixunsdfsi.o)
+ .PPC.EMB.apuinfo
+                0x0000021c       0x1c c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_addsub_df.o)
+ .PPC.EMB.apuinfo
+                0x00000238       0x1c c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_mul_df.o)
+ .PPC.EMB.apuinfo
+                0x00000254       0x18 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_div_df.o)
+ .PPC.EMB.apuinfo
+                0x0000026c       0x18 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_gt_df.o)
+ .PPC.EMB.apuinfo
+                0x00000284       0x18 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_ge_df.o)
+ .PPC.EMB.apuinfo
+                0x0000029c       0x18 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_lt_df.o)
+ .PPC.EMB.apuinfo
+                0x000002b4       0x18 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_si_to_df.o)
+ .PPC.EMB.apuinfo
+                0x000002cc       0x1c c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_df_to_si.o)
+ .PPC.EMB.apuinfo
+                0x000002e8       0x18 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_df_to_sf.o)
+ .PPC.EMB.apuinfo
+                0x00000300       0x18 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_usi_to_df.o)
+ .PPC.EMB.apuinfo
+                0x00000318       0x18 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(e200crtresxgpr.o)
+ .PPC.EMB.apuinfo
+                0x00000330       0x18 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_make_sf.o)
+ .PPC.EMB.apuinfo
+                0x00000348       0x1c c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_pack_df.o)
+ .PPC.EMB.apuinfo
+                0x00000364       0x18 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_unpack_df.o)
+ .PPC.EMB.apuinfo
+                0x0000037c       0x18 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_fpcmp_parts_df.o)
+ .PPC.EMB.apuinfo
+                0x00000394       0x1c c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_pack_sf.o)
+
+.comment        0x00000000       0xa8
+ .comment       0x00000000       0x54 ./src/Interrupts/intc_SW_mode_isr_vectors_MPC5744P.o
+                                 0x55 (size before relaxing)
+ .comment       0x00000054       0x55 ./src/Interrupts/flashrchw.o
+ .comment       0x00000054       0x55 ./src/Interrupts/Vector.o
+ .comment       0x00000054       0x55 ./src/Interrupts/MPC57xx__Interrupt_Init.o
+ .comment       0x00000054       0x55 ./src/Modules/SIUL.o
+ .comment       0x00000054       0x55 ./src/Modules/PIT.o
+ .comment       0x00000054       0x55 ./src/Modules/ME.o
+ .comment       0x00000054       0x55 ./src/Modules/LINFLEX.o
+ .comment       0x00000054       0x55 ./src/Modules/FS65xx.o
+ .comment       0x00000054       0x55 ./src/Modules/FCCU.o
+ .comment       0x00000054       0x55 ./src/Modules/DSPI.o
+ .comment       0x00000054       0x55 ./src/Modules/CAN.o
+ .comment       0x00000054       0x55 ./src/Modules/ADC.o
+ .comment       0x00000054       0x55 ./src/main.o
+ .comment       0x00000054       0x54 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(round.o)
+                                 0x55 (size before relaxing)
+ .comment       0x000000a8       0x55 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_floor.o)
+ .comment       0x000000a8       0x55 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_modf.o)
+ .comment       0x000000a8       0x55 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(math_api.o)
+ .comment       0x000000a8       0x55 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_lshrdi3.o)
+ .comment       0x000000a8       0x55 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_ashldi3.o)
+ .comment       0x000000a8       0x55 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_fixunsdfsi.o)
+ .comment       0x000000a8       0x55 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_addsub_df.o)
+ .comment       0x000000a8       0x55 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_mul_df.o)
+ .comment       0x000000a8       0x55 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_div_df.o)
+ .comment       0x000000a8       0x55 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_gt_df.o)
+ .comment       0x000000a8       0x55 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_ge_df.o)
+ .comment       0x000000a8       0x55 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_lt_df.o)
+ .comment       0x000000a8       0x55 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_si_to_df.o)
+ .comment       0x000000a8       0x55 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_df_to_si.o)
+ .comment       0x000000a8       0x55 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_df_to_sf.o)
+ .comment       0x000000a8       0x55 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_thenan_df.o)
+ .comment       0x000000a8       0x55 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_usi_to_df.o)
+ .comment       0x000000a8       0x55 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_make_sf.o)
+ .comment       0x000000a8       0x55 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_pack_df.o)
+ .comment       0x000000a8       0x55 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_unpack_df.o)
+ .comment       0x000000a8       0x55 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_fpcmp_parts_df.o)
+ .comment       0x000000a8       0x55 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_pack_sf.o)
+
+.gnu.attributes
+                0x00000000       0x10
+ .gnu.attributes
+                0x00000000       0x10 ./src/Modules/LINFLEX.o
+ .gnu.attributes
+                0x00000010       0x10 ./src/Modules/FS65xx.o
+ .gnu.attributes
+                0x00000020       0x10 ./src/Modules/DSPI.o
+ .gnu.attributes
+                0x00000030       0x10 ./src/Modules/ADC.o
+ .gnu.attributes
+                0x00000040       0x10 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(round.o)
+ .gnu.attributes
+                0x00000050       0x10 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_floor.o)
+ .gnu.attributes
+                0x00000060       0x10 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_modf.o)
+ .gnu.attributes
+                0x00000070       0x10 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(math_api.o)
+ .gnu.attributes
+                0x00000080       0x10 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_fixunsdfsi.o)
+ .gnu.attributes
+                0x00000090       0x10 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_addsub_df.o)
+ .gnu.attributes
+                0x000000a0       0x10 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_mul_df.o)
+ .gnu.attributes
+                0x000000b0       0x10 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_div_df.o)
+ .gnu.attributes
+                0x000000c0       0x10 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_gt_df.o)
+ .gnu.attributes
+                0x000000d0       0x10 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_ge_df.o)
+ .gnu.attributes
+                0x000000e0       0x10 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_lt_df.o)
+ .gnu.attributes
+                0x000000f0       0x10 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_si_to_df.o)
+ .gnu.attributes
+                0x00000100       0x10 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_df_to_si.o)
+ .gnu.attributes
+                0x00000110       0x10 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_df_to_sf.o)
+ .gnu.attributes
+                0x00000120       0x10 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_usi_to_df.o)
+ .gnu.attributes
+                0x00000130       0x10 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_make_sf.o)
+ .gnu.attributes
+                0x00000140       0x10 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_pack_df.o)
+ .gnu.attributes
+                0x00000150       0x10 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_pack_sf.o)
+
+.debug_line     0x00000000     0x4886
+ .debug_line    0x00000000       0xff ./Project_Settings/Startup_Code/startup.o
+ .debug_line    0x000000ff       0x68 ./src/Interrupts/intc_sw_handlers.o
+ .debug_line    0x00000167      0x1b5 ./src/Interrupts/intc_SW_mode_isr_vectors_MPC5744P.o
+ .debug_line    0x0000031c      0x17c ./src/Interrupts/flashrchw.o
+ .debug_line    0x00000498       0xa5 ./src/Interrupts/Vector.o
+ .debug_line    0x0000053d      0x20f ./src/Interrupts/MPC57xx__Interrupt_Init.o
+ .debug_line    0x0000074c      0x2a5 ./src/Modules/SIUL.o
+ .debug_line    0x000009f1      0x267 ./src/Modules/PIT.o
+ .debug_line    0x00000c58      0x205 ./src/Modules/ME.o
+ .debug_line    0x00000e5d      0x57e ./src/Modules/LINFLEX.o
+ .debug_line    0x000013db      0xd98 ./src/Modules/FS65xx.o
+ .debug_line    0x00002173      0x1d7 ./src/Modules/FCCU.o
+ .debug_line    0x0000234a      0x5c2 ./src/Modules/DSPI.o
+ .debug_line    0x0000290c      0x2f1 ./src/Modules/CAN.o
+ .debug_line    0x00002bfd      0x644 ./src/Modules/ADC.o
+ .debug_line    0x00003241      0x26d ./src/main.o
+ .debug_line    0x000034ae      0x1a4 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(round.o)
+ .debug_line    0x00003652      0x1f0 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_floor.o)
+ .debug_line    0x00003842      0x1e5 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_modf.o)
+ .debug_line    0x00003a27      0x2a4 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(math_api.o)
+ .debug_line    0x00003ccb       0x76 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_lshrdi3.o)
+ .debug_line    0x00003d41       0x76 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_ashldi3.o)
+ .debug_line    0x00003db7       0x6d c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_fixunsdfsi.o)
+ .debug_line    0x00003e24      0x115 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_addsub_df.o)
+ .debug_line    0x00003f39       0xea c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_mul_df.o)
+ .debug_line    0x00004023       0xc7 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_div_df.o)
+ .debug_line    0x000040ea       0x75 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_gt_df.o)
+ .debug_line    0x0000415f       0x75 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_ge_df.o)
+ .debug_line    0x000041d4       0x75 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_lt_df.o)
+ .debug_line    0x00004249       0x86 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_si_to_df.o)
+ .debug_line    0x000042cf       0x76 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_df_to_si.o)
+ .debug_line    0x00004345       0x6d c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_df_to_sf.o)
+ .debug_line    0x000043b2       0x92 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_thenan_df.o)
+ .debug_line    0x00004444       0x88 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_usi_to_df.o)
+ .debug_line    0x000044cc       0x81 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(e200crtresxgpr.o)
+ .debug_line    0x0000454d       0x6a c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_make_sf.o)
+ .debug_line    0x000045b7       0xdc c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_pack_df.o)
+ .debug_line    0x00004693       0x94 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_unpack_df.o)
+ .debug_line    0x00004727       0xa8 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_fpcmp_parts_df.o)
+ .debug_line    0x000047cf       0xb7 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_pack_sf.o)
+
+.debug_info     0x00000000    0x206ea
+ .debug_info    0x00000000       0xd0 ./Project_Settings/Startup_Code/startup.o
+ .debug_info    0x000000d0       0xca ./src/Interrupts/intc_sw_handlers.o
+ .debug_info    0x0000019a       0xb4 ./src/Interrupts/intc_SW_mode_isr_vectors_MPC5744P.o
+ .debug_info    0x0000024e       0x93 ./src/Interrupts/flashrchw.o
+ .debug_info    0x000002e1       0x21 ./src/Interrupts/Vector.o
+ .debug_info    0x00000302      0x5eb ./src/Interrupts/MPC57xx__Interrupt_Init.o
+ .debug_info    0x000008ed     0x176a ./src/Modules/SIUL.o
+ .debug_info    0x00002057      0x525 ./src/Modules/PIT.o
+ .debug_info    0x0000257c     0x4dcd ./src/Modules/ME.o
+ .debug_info    0x00007349     0x1b34 ./src/Modules/LINFLEX.o
+ .debug_info    0x00008e7d     0x5c64 ./src/Modules/FS65xx.o
+ .debug_info    0x0000eae1     0x1cb6 ./src/Modules/FCCU.o
+ .debug_info    0x00010797      0xdf6 ./src/Modules/DSPI.o
+ .debug_info    0x0001158d     0x124b ./src/Modules/CAN.o
+ .debug_info    0x000127d8     0x3007 ./src/Modules/ADC.o
+ .debug_info    0x000157df     0x31af ./src/main.o
+ .debug_info    0x0001898e      0x4ca C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(round.o)
+ .debug_info    0x00018e58      0x508 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_floor.o)
+ .debug_info    0x00019360      0x520 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_modf.o)
+ .debug_info    0x00019880      0x6dd C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(math_api.o)
+ .debug_info    0x00019f5d      0x199 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_lshrdi3.o)
+ .debug_info    0x0001a0f6      0x197 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_ashldi3.o)
+ .debug_info    0x0001a28d       0xdc c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_fixunsdfsi.o)
+ .debug_info    0x0001a369      0x4f5 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_addsub_df.o)
+ .debug_info    0x0001a85e      0x496 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_mul_df.o)
+ .debug_info    0x0001acf4      0x3a3 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_div_df.o)
+ .debug_info    0x0001b097      0x2cc c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_gt_df.o)
+ .debug_info    0x0001b363      0x2cc c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_ge_df.o)
+ .debug_info    0x0001b62f      0x2cc c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_lt_df.o)
+ .debug_info    0x0001b8fb      0x258 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_si_to_df.o)
+ .debug_info    0x0001bb53      0x29a c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_df_to_si.o)
+ .debug_info    0x0001bded      0x275 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_df_to_sf.o)
+ .debug_info    0x0001c062     0x383c c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_thenan_df.o)
+ .debug_info    0x0001f89e      0x24d c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_usi_to_df.o)
+ .debug_info    0x0001faeb       0xd9 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(e200crtresxgpr.o)
+ .debug_info    0x0001fbc4      0x206 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_make_sf.o)
+ .debug_info    0x0001fdca      0x291 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_pack_df.o)
+ .debug_info    0x0002005b      0x217 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_unpack_df.o)
+ .debug_info    0x00020272      0x1ed c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_fpcmp_parts_df.o)
+ .debug_info    0x0002045f      0x28b c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_pack_sf.o)
+
+.debug_abbrev   0x00000000     0x32a8
+ .debug_abbrev  0x00000000       0x14 ./Project_Settings/Startup_Code/startup.o
+ .debug_abbrev  0x00000014       0x14 ./src/Interrupts/intc_sw_handlers.o
+ .debug_abbrev  0x00000028       0x7c ./src/Interrupts/intc_SW_mode_isr_vectors_MPC5744P.o
+ .debug_abbrev  0x000000a4       0x4e ./src/Interrupts/flashrchw.o
+ .debug_abbrev  0x000000f2       0x13 ./src/Interrupts/Vector.o
+ .debug_abbrev  0x00000105      0x17d ./src/Interrupts/MPC57xx__Interrupt_Init.o
+ .debug_abbrev  0x00000282      0x18f ./src/Modules/SIUL.o
+ .debug_abbrev  0x00000411      0x173 ./src/Modules/PIT.o
+ .debug_abbrev  0x00000584      0x12e ./src/Modules/ME.o
+ .debug_abbrev  0x000006b2      0x1ff ./src/Modules/LINFLEX.o
+ .debug_abbrev  0x000008b1      0x2a2 ./src/Modules/FS65xx.o
+ .debug_abbrev  0x00000b53      0x116 ./src/Modules/FCCU.o
+ .debug_abbrev  0x00000c69      0x1d2 ./src/Modules/DSPI.o
+ .debug_abbrev  0x00000e3b      0x1ab ./src/Modules/CAN.o
+ .debug_abbrev  0x00000fe6      0x1df ./src/Modules/ADC.o
+ .debug_abbrev  0x000011c5      0x1bf ./src/main.o
+ .debug_abbrev  0x00001384      0x141 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(round.o)
+ .debug_abbrev  0x000014c5      0x164 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_floor.o)
+ .debug_abbrev  0x00001629      0x173 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_modf.o)
+ .debug_abbrev  0x0000179c      0x140 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(math_api.o)
+ .debug_abbrev  0x000018dc       0xf1 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_lshrdi3.o)
+ .debug_abbrev  0x000019cd      0x100 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_ashldi3.o)
+ .debug_abbrev  0x00001acd       0x60 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_fixunsdfsi.o)
+ .debug_abbrev  0x00001b2d      0x1e9 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_addsub_df.o)
+ .debug_abbrev  0x00001d16      0x207 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_mul_df.o)
+ .debug_abbrev  0x00001f1d      0x1f0 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_div_df.o)
+ .debug_abbrev  0x0000210d      0x17b c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_gt_df.o)
+ .debug_abbrev  0x00002288      0x17b c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_ge_df.o)
+ .debug_abbrev  0x00002403      0x17b c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_lt_df.o)
+ .debug_abbrev  0x0000257e      0x19e c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_si_to_df.o)
+ .debug_abbrev  0x0000271c      0x16a c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_df_to_si.o)
+ .debug_abbrev  0x00002886      0x16a c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_df_to_sf.o)
+ .debug_abbrev  0x000029f0       0xc5 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_thenan_df.o)
+ .debug_abbrev  0x00002ab5      0x1a9 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_usi_to_df.o)
+ .debug_abbrev  0x00002c5e       0x14 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(e200crtresxgpr.o)
+ .debug_abbrev  0x00002c72      0x13f c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_make_sf.o)
+ .debug_abbrev  0x00002db1      0x165 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_pack_df.o)
+ .debug_abbrev  0x00002f16      0x124 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_unpack_df.o)
+ .debug_abbrev  0x0000303a      0x10e c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_fpcmp_parts_df.o)
+ .debug_abbrev  0x00003148      0x160 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_pack_sf.o)
+
+.debug_aranges  0x00000000      0xd00
+ .debug_aranges
+                0x00000000       0x20 ./Project_Settings/Startup_Code/startup.o
+ .debug_aranges
+                0x00000020       0x20 ./src/Interrupts/intc_sw_handlers.o
+ .debug_aranges
+                0x00000040       0x20 ./src/Interrupts/intc_SW_mode_isr_vectors_MPC5744P.o
+ .debug_aranges
+                0x00000060       0x18 ./src/Interrupts/flashrchw.o
+ .debug_aranges
+                0x00000078       0x18 ./src/Interrupts/Vector.o
+ .debug_aranges
+                0x00000090       0x38 ./src/Interrupts/MPC57xx__Interrupt_Init.o
+ .debug_aranges
+                0x000000c8       0x88 ./src/Modules/SIUL.o
+ .debug_aranges
+                0x00000150       0x68 ./src/Modules/PIT.o
+ .debug_aranges
+                0x000001b8       0x20 ./src/Modules/ME.o
+ .debug_aranges
+                0x000001d8      0x108 ./src/Modules/LINFLEX.o
+ .debug_aranges
+                0x000002e0      0x300 ./src/Modules/FS65xx.o
+ .debug_aranges
+                0x000005e0       0x20 ./src/Modules/FCCU.o
+ .debug_aranges
+                0x00000600       0xa0 ./src/Modules/DSPI.o
+ .debug_aranges
+                0x000006a0       0x38 ./src/Modules/CAN.o
+ .debug_aranges
+                0x000006d8      0x110 ./src/Modules/ADC.o
+ .debug_aranges
+                0x000007e8       0x20 ./src/main.o
+ .debug_aranges
+                0x00000808       0x90 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(round.o)
+ .debug_aranges
+                0x00000898       0x90 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_floor.o)
+ .debug_aranges
+                0x00000928       0x90 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_modf.o)
+ .debug_aranges
+                0x000009b8       0xd0 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(math_api.o)
+ .debug_aranges
+                0x00000a88       0x20 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_lshrdi3.o)
+ .debug_aranges
+                0x00000aa8       0x20 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_ashldi3.o)
+ .debug_aranges
+                0x00000ac8       0x20 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_fixunsdfsi.o)
+ .debug_aranges
+                0x00000ae8       0x20 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_addsub_df.o)
+ .debug_aranges
+                0x00000b08       0x20 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_mul_df.o)
+ .debug_aranges
+                0x00000b28       0x20 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_div_df.o)
+ .debug_aranges
+                0x00000b48       0x20 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_gt_df.o)
+ .debug_aranges
+                0x00000b68       0x20 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_ge_df.o)
+ .debug_aranges
+                0x00000b88       0x20 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_lt_df.o)
+ .debug_aranges
+                0x00000ba8       0x20 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_si_to_df.o)
+ .debug_aranges
+                0x00000bc8       0x20 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_df_to_si.o)
+ .debug_aranges
+                0x00000be8       0x20 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_df_to_sf.o)
+ .debug_aranges
+                0x00000c08       0x18 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_thenan_df.o)
+ .debug_aranges
+                0x00000c20       0x20 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_usi_to_df.o)
+ .debug_aranges
+                0x00000c40       0x20 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(e200crtresxgpr.o)
+ .debug_aranges
+                0x00000c60       0x20 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_make_sf.o)
+ .debug_aranges
+                0x00000c80       0x20 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_pack_df.o)
+ .debug_aranges
+                0x00000ca0       0x20 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_unpack_df.o)
+ .debug_aranges
+                0x00000cc0       0x20 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_fpcmp_parts_df.o)
+ .debug_aranges
+                0x00000ce0       0x20 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_pack_sf.o)
+
+.debug_ranges   0x00000000      0x9f0
+ .debug_ranges  0x00000000       0x10 ./src/Interrupts/intc_SW_mode_isr_vectors_MPC5744P.o
+ .debug_ranges  0x00000010       0x28 ./src/Interrupts/MPC57xx__Interrupt_Init.o
+ .debug_ranges  0x00000038       0x78 ./src/Modules/SIUL.o
+ .debug_ranges  0x000000b0       0x58 ./src/Modules/PIT.o
+ .debug_ranges  0x00000108       0x10 ./src/Modules/ME.o
+ .debug_ranges  0x00000118       0xf8 ./src/Modules/LINFLEX.o
+ .debug_ranges  0x00000210      0x2f0 ./src/Modules/FS65xx.o
+ .debug_ranges  0x00000500       0x10 ./src/Modules/FCCU.o
+ .debug_ranges  0x00000510       0x90 ./src/Modules/DSPI.o
+ .debug_ranges  0x000005a0       0x28 ./src/Modules/CAN.o
+ .debug_ranges  0x000005c8      0x100 ./src/Modules/ADC.o
+ .debug_ranges  0x000006c8       0x10 ./src/main.o
+ .debug_ranges  0x000006d8       0x80 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(round.o)
+ .debug_ranges  0x00000758       0x80 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_floor.o)
+ .debug_ranges  0x000007d8       0x80 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_modf.o)
+ .debug_ranges  0x00000858       0xc0 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(math_api.o)
+ .debug_ranges  0x00000918       0x38 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_addsub_df.o)
+ .debug_ranges  0x00000950       0x50 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_mul_df.o)
+ .debug_ranges  0x000009a0       0x18 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_div_df.o)
+ .debug_ranges  0x000009b8       0x20 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_usi_to_df.o)
+ .debug_ranges  0x000009d8       0x18 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_pack_df.o)
+
+.debug_macro    0x00000000     0xed1e
+ .debug_macro   0x00000000       0x96 ./src/Interrupts/intc_SW_mode_isr_vectors_MPC5744P.o
+ .debug_macro   0x00000096      0x610 ./src/Interrupts/intc_SW_mode_isr_vectors_MPC5744P.o
+ .debug_macro   0x000006a6       0x40 ./src/Interrupts/intc_SW_mode_isr_vectors_MPC5744P.o
+ .debug_macro   0x000006e6       0x16 ./src/Interrupts/intc_SW_mode_isr_vectors_MPC5744P.o
+ .debug_macro   0x000006fc       0x64 ./src/Interrupts/intc_SW_mode_isr_vectors_MPC5744P.o
+ .debug_macro   0x00000760      0x19d ./src/Interrupts/intc_SW_mode_isr_vectors_MPC5744P.o
+ .debug_macro   0x000008fd      0x133 ./src/Interrupts/intc_SW_mode_isr_vectors_MPC5744P.o
+ .debug_macro   0x00000a30       0x9d ./src/Interrupts/intc_SW_mode_isr_vectors_MPC5744P.o
+ .debug_macro   0x00000acd       0x10 ./src/Interrupts/intc_SW_mode_isr_vectors_MPC5744P.o
+ .debug_macro   0x00000add      0x1a1 ./src/Interrupts/intc_SW_mode_isr_vectors_MPC5744P.o
+ .debug_macro   0x00000c7e      0x124 ./src/Interrupts/intc_SW_mode_isr_vectors_MPC5744P.o
+ .debug_macro   0x00000da2       0xbd ./src/Interrupts/flashrchw.o
+ .debug_macro   0x00000e5f       0x3f ./src/Interrupts/Vector.o
+ .debug_macro   0x00000e9e       0xdf ./src/Interrupts/MPC57xx__Interrupt_Init.o
+ .debug_macro   0x00000f7d     0xb50a ./src/Interrupts/MPC57xx__Interrupt_Init.o
+ .debug_macro   0x0000c487      0x7e1 ./src/Interrupts/MPC57xx__Interrupt_Init.o
+ .debug_macro   0x0000cc68       0xb7 ./src/Modules/SIUL.o
+ .debug_macro   0x0000cd1f      0x7e1 ./src/Modules/SIUL.o
+ .debug_macro   0x0000d500       0xb6 ./src/Modules/PIT.o
+ .debug_macro   0x0000d5b6       0x22 ./src/Modules/PIT.o
+ .debug_macro   0x0000d5d8       0xbf ./src/Modules/ME.o
+ .debug_macro   0x0000d697      0x124 ./src/Modules/ME.o
+ .debug_macro   0x0000d7bb      0x112 ./src/Modules/ME.o
+ .debug_macro   0x0000d8cd      0x126 ./src/Modules/LINFLEX.o
+ .debug_macro   0x0000d9f3       0x28 ./src/Modules/LINFLEX.o
+ .debug_macro   0x0000da1b       0x16 ./src/Modules/LINFLEX.o
+ .debug_macro   0x0000da31       0xd0 ./src/Modules/LINFLEX.o
+ .debug_macro   0x0000db01      0x194 ./src/Modules/LINFLEX.o
+ .debug_macro   0x0000dc95       0xac ./src/Modules/LINFLEX.o
+ .debug_macro   0x0000dd41       0x16 ./src/Modules/LINFLEX.o
+ .debug_macro   0x0000dd57      0x193 ./src/Modules/LINFLEX.o
+ .debug_macro   0x0000deea       0x16 ./src/Modules/LINFLEX.o
+ .debug_macro   0x0000df00       0xfb ./src/Modules/FS65xx.o
+ .debug_macro   0x0000dffb      0x124 ./src/Modules/FS65xx.o
+ .debug_macro   0x0000e11f      0x17d ./src/Modules/FS65xx.o
+ .debug_macro   0x0000e29c      0x1c1 ./src/Modules/FS65xx.o
+ .debug_macro   0x0000e45d      0x226 ./src/Modules/FS65xx.o
+ .debug_macro   0x0000e683       0xbf ./src/Modules/FCCU.o
+ .debug_macro   0x0000e742      0x130 ./src/Modules/DSPI.o
+ .debug_macro   0x0000e872       0xc0 ./src/Modules/CAN.o
+ .debug_macro   0x0000e932       0x16 ./src/Modules/CAN.o
+ .debug_macro   0x0000e948      0x12c ./src/Modules/ADC.o
+ .debug_macro   0x0000ea74      0x18e ./src/Modules/ADC.o
+ .debug_macro   0x0000ec02      0x11c ./src/main.o
+
+.debug_str      0x00000000    0x4f4dc
+ .debug_str     0x00000000     0x38ec ./src/Interrupts/intc_SW_mode_isr_vectors_MPC5744P.o
+                               0x3972 (size before relaxing)
+ .debug_str     0x000038ec       0xec ./src/Interrupts/flashrchw.o
+                               0x3611 (size before relaxing)
+ .debug_str     0x000039d8       0xa6 ./src/Interrupts/Vector.o
+                               0x1fb0 (size before relaxing)
+ .debug_str     0x00003a7e    0x34db3 ./src/Interrupts/MPC57xx__Interrupt_Init.o
+                              0x38318 (size before relaxing)
+ .debug_str     0x00038831      0xa54 ./src/Modules/SIUL.o
+                              0x38983 (size before relaxing)
+ .debug_str     0x00039285      0x2a7 ./src/Modules/PIT.o
+                              0x381bd (size before relaxing)
+ .debug_str     0x0003952c     0x2279 ./src/Modules/ME.o
+                              0x3aadd (size before relaxing)
+ .debug_str     0x0003b7a5     0x1e03 ./src/Modules/LINFLEX.o
+                              0x3a019 (size before relaxing)
+ .debug_str     0x0003d5a8     0x270f ./src/Modules/FS65xx.o
+                              0x3ae8c (size before relaxing)
+ .debug_str     0x0003fcb7      0xe69 ./src/Modules/FCCU.o
+                              0x39478 (size before relaxing)
+ .debug_str     0x00040b20      0x589 ./src/Modules/DSPI.o
+                              0x39db7 (size before relaxing)
+ .debug_str     0x000410a9      0x80e ./src/Modules/CAN.o
+                              0x3874d (size before relaxing)
+ .debug_str     0x000418b7     0x1401 ./src/Modules/ADC.o
+                              0x3ae92 (size before relaxing)
+ .debug_str     0x00042cb8      0x583 ./src/main.o
+                              0x3ac3c (size before relaxing)
+ .debug_str     0x0004323b      0x383 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(round.o)
+                                0x445 (size before relaxing)
+ .debug_str     0x000435be       0x27 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_floor.o)
+                                0x433 (size before relaxing)
+ .debug_str     0x000435e5       0x1d C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_modf.o)
+                                0x43c (size before relaxing)
+ .debug_str     0x00043602       0x4d C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(math_api.o)
+                                0x483 (size before relaxing)
+ .debug_str     0x0004364f      0x1c1 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_lshrdi3.o)
+                                0x26e (size before relaxing)
+ .debug_str     0x00043810        0xa c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_ashldi3.o)
+                                0x26e (size before relaxing)
+ .debug_str     0x0004381a       0x14 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_fixunsdfsi.o)
+                                0x242 (size before relaxing)
+ .debug_str     0x0004382e      0x177 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_addsub_df.o)
+                                0x368 (size before relaxing)
+ .debug_str     0x000439a5       0x40 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_mul_df.o)
+                                0x33a (size before relaxing)
+ .debug_str     0x000439e5       0x35 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_div_df.o)
+                                0x32a (size before relaxing)
+ .debug_str     0x00043a1a       0x20 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_gt_df.o)
+                                0x2f7 (size before relaxing)
+ .debug_str     0x00043a3a        0x8 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_ge_df.o)
+                                0x2f7 (size before relaxing)
+ .debug_str     0x00043a42        0x8 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_lt_df.o)
+                                0x2f7 (size before relaxing)
+ .debug_str     0x00043a4a       0x27 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_si_to_df.o)
+                                0x2d2 (size before relaxing)
+ .debug_str     0x00043a71        0xa c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_df_to_si.o)
+                                0x2ef (size before relaxing)
+ .debug_str     0x00043a7b       0x25 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_df_to_sf.o)
+                                0x2f0 (size before relaxing)
+ .debug_str     0x00043aa0     0xba0a c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_thenan_df.o)
+                               0xbc8f (size before relaxing)
+ .debug_str     0x0004f4aa        0xe c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_usi_to_df.o)
+                                0x2c8 (size before relaxing)
+ .debug_str     0x0004f4b8       0x1d c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_make_sf.o)
+                                0x2ad (size before relaxing)
+ .debug_str     0x0004f4d5        0x7 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_pack_df.o)
+                                0x2e3 (size before relaxing)
+ .debug_str     0x0004f4dc      0x2c5 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_unpack_df.o)
+ .debug_str     0x0004f4dc      0x2a8 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_fpcmp_parts_df.o)
+ .debug_str     0x0004f4dc      0x2dd c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_pack_sf.o)
+
+.debug_frame    0x00000000     0x28ec
+ .debug_frame   0x00000000       0x2c ./src/Interrupts/intc_SW_mode_isr_vectors_MPC5744P.o
+ .debug_frame   0x0000002c       0xa4 ./src/Interrupts/MPC57xx__Interrupt_Init.o
+ .debug_frame   0x000000d0      0x208 ./src/Modules/SIUL.o
+ .debug_frame   0x000002d8      0x178 ./src/Modules/PIT.o
+ .debug_frame   0x00000450       0x34 ./src/Modules/ME.o
+ .debug_frame   0x00000484      0x458 ./src/Modules/LINFLEX.o
+ .debug_frame   0x000008dc      0xe0c ./src/Modules/FS65xx.o
+ .debug_frame   0x000016e8       0x34 ./src/Modules/FCCU.o
+ .debug_frame   0x0000171c      0x2ac ./src/Modules/DSPI.o
+ .debug_frame   0x000019c8       0xa8 ./src/Modules/CAN.o
+ .debug_frame   0x00001a70      0x4a0 ./src/Modules/ADC.o
+ .debug_frame   0x00001f10       0x2c ./src/main.o
+ .debug_frame   0x00001f3c      0x158 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(round.o)
+ .debug_frame   0x00002094      0x158 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_floor.o)
+ .debug_frame   0x000021ec      0x148 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_modf.o)
+ .debug_frame   0x00002334      0x1f4 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(math_api.o)
+ .debug_frame   0x00002528       0x20 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_lshrdi3.o)
+ .debug_frame   0x00002548       0x20 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_ashldi3.o)
+ .debug_frame   0x00002568       0x40 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_fixunsdfsi.o)
+ .debug_frame   0x000025a8       0x88 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_addsub_df.o)
+ .debug_frame   0x00002630       0x4c c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_mul_df.o)
+ .debug_frame   0x0000267c       0x38 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_div_df.o)
+ .debug_frame   0x000026b4       0x38 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_gt_df.o)
+ .debug_frame   0x000026ec       0x38 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_ge_df.o)
+ .debug_frame   0x00002724       0x38 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_lt_df.o)
+ .debug_frame   0x0000275c       0x30 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_si_to_df.o)
+ .debug_frame   0x0000278c       0x44 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_df_to_si.o)
+ .debug_frame   0x000027d0       0x30 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_df_to_sf.o)
+ .debug_frame   0x00002800       0x3c c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_usi_to_df.o)
+ .debug_frame   0x0000283c       0x30 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_make_sf.o)
+ .debug_frame   0x0000286c       0x20 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_pack_df.o)
+ .debug_frame   0x0000288c       0x20 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_unpack_df.o)
+ .debug_frame   0x000028ac       0x20 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_fpcmp_parts_df.o)
+ .debug_frame   0x000028cc       0x20 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_pack_sf.o)
+
+.debug_loc      0x00000000     0x2f70
+ .debug_loc     0x00000000      0x379 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(round.o)
+ .debug_loc     0x00000379      0x48e C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_floor.o)
+ .debug_loc     0x00000807      0x4df C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(s_modf.o)
+ .debug_loc     0x00000ce6      0x6c6 C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2/lib/fp/e200z4\libm.a(math_api.o)
+ .debug_loc     0x000013ac       0xf2 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_lshrdi3.o)
+ .debug_loc     0x0000149e       0xa7 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_ashldi3.o)
+ .debug_loc     0x00001545       0x28 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_fixunsdfsi.o)
+ .debug_loc     0x0000156d      0x61a c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_addsub_df.o)
+ .debug_loc     0x00001b87      0x4da c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_mul_df.o)
+ .debug_loc     0x00002061      0x244 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_div_df.o)
+ .debug_loc     0x000022a5       0x50 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_gt_df.o)
+ .debug_loc     0x000022f5       0x50 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_ge_df.o)
+ .debug_loc     0x00002345       0x50 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_lt_df.o)
+ .debug_loc     0x00002395       0xe1 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_si_to_df.o)
+ .debug_loc     0x00002476       0xa3 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_df_to_si.o)
+ .debug_loc     0x00002519       0x3b c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_df_to_sf.o)
+ .debug_loc     0x00002554       0xda c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_usi_to_df.o)
+ .debug_loc     0x0000262e       0x90 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_make_sf.o)
+ .debug_loc     0x000026be      0x399 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_pack_df.o)
+ .debug_loc     0x00002a57      0x103 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_unpack_df.o)
+ .debug_loc     0x00002b5a      0x123 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_fpcmp_parts_df.o)
+ .debug_loc     0x00002c7d      0x2f3 c:/nxp/s32_power_v1.1/cross_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.2/fp/e200z4\libgcc.a(_pack_sf.o)

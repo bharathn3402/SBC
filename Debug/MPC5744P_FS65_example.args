@@ -1,0 +1,29 @@
+"./Project_Settings/Startup_Code/startup.o"
+"./src/Interrupts/intc_sw_handlers.o"
+"./src/Interrupts/intc_SW_mode_isr_vectors_MPC5744P.o"
+"./src/Interrupts/flashrchw.o"
+"./src/Interrupts/Vector.o"
+"./src/Interrupts/MPC57xx__Interrupt_Init.o"
+"./src/Modules/SIUL.o"
+"./src/Modules/PIT.o"
+"./src/Modules/ME.o"
+"./src/Modules/LINFLEX.o"
+"./src/Modules/FS65xx.o"
+"./src/Modules/FCCU.o"
+"./src/Modules/DSPI.o"
+"./src/Modules/CAN.o"
+"./src/Modules/ADC.o"
+"./src/main.o"
+-T
+"C:/Users/BRNy001/OneDrive - NXP/6.WORK/1.MPC57xx-Projects/Panther/NXP_FS65xx_drivers_v1/Example/MPC5744P_FS65_example/Project_Settings/Linker_Files/mem.ld"
+-T
+"C:/Users/BRNy001/OneDrive - NXP/6.WORK/1.MPC57xx-Projects/Panther/NXP_FS65xx_drivers_v1/Example/MPC5744P_FS65_example/Project_Settings/Linker_Files/sections.ld"
+-T
+"C:/Users/BRNy001/OneDrive - NXP/6.WORK/1.MPC57xx-Projects/Panther/NXP_FS65xx_drivers_v1/Example/MPC5744P_FS65_example/Project_Settings/Linker_Files/libs.ld"
+-Wl,-Map,"MPC5744P_FS65_example.map"
+-Xlinker
+--gc-sections
+-mcpu=e200z4
+-specs=ewl_c.specs
+-mhard-float
+--sysroot="C:/NXP/S32_Power_v1.1/S32DS/e200_ewl2"
